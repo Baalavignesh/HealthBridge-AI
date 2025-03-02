@@ -3,6 +3,9 @@ import axios from "axios";
 import { useNavigate } from "react-router-dom";
 import { Fade } from "@mui/material";
 import checkAuth from "../HOC/checkAuth";
+import speciality from "../constants/speciality";
+import hospital from "../constants/hospital";
+
 const Register: React.FC = () => {
   const [userType, setUserType] = useState<string>("Doctor");
 
@@ -15,18 +18,35 @@ const Register: React.FC = () => {
     email: "",
     password: "",
     user_type: "Doctor",
+    hospital: "",
+    hospitalLocation: "",
+    specialization: "Surgery",
   });
 
   useEffect(() => {
     const result = checkAuth();
     if (result) {
       navigate(`/${result}`);
-    }   
-  }, []);
+    }
+    setUserInfo((prev: any) => ({
+      ...prev,
+      user_type: userType
+    }));
+  }, [userType]);
+
   const navigate = useNavigate();
 
   const handleChange = (e: any) => {
     setUserInfo({ ...userInfo, [e.target.name]: e.target.value });
+    
+    if (e.target.name === "hospital") {
+      const selectedHospital = e.target.value;
+      const location = hospital[selectedHospital as keyof typeof hospital] || "";
+      setUserInfo((prev: any) => ({
+        ...prev,
+        hospitalLocation: location
+      }));
+    }
   };
 
   const handleSubmit = async (e: any) => {
@@ -43,7 +63,7 @@ const Register: React.FC = () => {
           },
         }
       );
-      console.log(response);
+      localStorage.setItem('userInfo', JSON.stringify(response.data));
       navigate(`/${userType.toLowerCase()}`);
     } catch (error) {
       console.error("Registration error:", error);
@@ -104,22 +124,28 @@ const Register: React.FC = () => {
               required
             />
           </div>
-          <div className="mb-4">
-            <label className="block text-gray-700" htmlFor="age">
-              Age
-            </label>
-            <input
-              type="number"
-              id="age"
-              className="mt-1 block w-full p-2 border border-gray-300 rounded"
-              placeholder="Enter your age"
-              name="age"
-              value={userInfo.age}
-              onChange={handleChange}
-              required
-            />
-          </div>
-          <div className="mb-4">
+          {
+            userType === "Patient" && (
+              <div className="mb-4">
+              <label className="block text-gray-700" htmlFor="age">
+                Age
+              </label>
+              <input
+                type="number"
+                id="age"
+                className="mt-1 block w-full p-2 border border-gray-300 rounded"
+                placeholder="Enter your age"
+                name="age"
+                value={userInfo.age}
+                onChange={handleChange}
+                required
+              />
+            </div>
+          )}
+         
+         {
+          userType === "Patient" && (
+            <div className="mb-4">
             <label className="block text-gray-700" htmlFor="gender">
               Gender
             </label>
@@ -137,6 +163,72 @@ const Register: React.FC = () => {
               <option value="other">Other</option>
             </select>
           </div>
+          )}
+
+          {
+            userType === "Doctor" && (
+              <div className="mb-4">
+                <label className="block text-gray-700" htmlFor="specialization">
+                  Specialization
+                </label>
+                <select
+                  id="specialization"
+                  className="mt-1 block w-full p-2 border border-gray-300 rounded"
+                  required
+                  name="specialization"
+                  value={userInfo.specialization}
+                  onChange={handleChange}
+                >
+                  {speciality.map((speciality: string) => (
+                    <option value={speciality}>{speciality}</option>
+                  ))}
+                </select>
+              </div>
+            )
+          }
+          {
+            userType === "Doctor" && ( 
+              <div className="mb-4">
+                <label className="block text-gray-700" htmlFor="hospital">
+                  Hospital
+                </label>
+                <select
+                  id="hospital"
+                  className="mt-1 block w-full p-2 border border-gray-300 rounded"
+                  required
+                  name="hospital"
+                  value={userInfo.hospital}
+                  onChange={handleChange}
+                >
+                  {Object.keys(hospital).map((hospitalName: string) => (
+                    <option key={hospitalName} value={hospitalName}>
+                      {hospitalName}
+                    </option>
+                  ))}
+                </select>
+              </div>
+            )
+          }
+          {
+            userType === "Doctor" && (
+              <div className="mb-4">
+                <label className="block text-gray-700" htmlFor="hospitalLocation">
+                  Hospital Location
+                </label>
+                <input
+                  type="text"
+                  id="hospitalLocation"
+                  className="mt-1 block w-full p-2 border border-gray-300 rounded"
+                  placeholder="Hospital location"
+                  required
+                  name="hospitalLocation"
+                  value={userInfo.hospitalLocation}
+                  disabled
+                />
+              </div>
+            )
+          }
+          
           <div className="mb-4">
             <label className="block text-gray-700" htmlFor="mobile">
               Mobile Number
@@ -152,7 +244,9 @@ const Register: React.FC = () => {
               onChange={handleChange}
             />
           </div>
-          <div className="mb-4">
+          {
+            userType === "Patient" && (
+              <div className="mb-4">
             <label className="block text-gray-700" htmlFor="address">
               Address
             </label>
@@ -167,6 +261,8 @@ const Register: React.FC = () => {
               onChange={handleChange}
             />
           </div>
+            )
+          }
           <div className="mb-4">
             <label className="block text-gray-700" htmlFor="email">
               Email Address

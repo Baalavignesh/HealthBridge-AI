@@ -17,8 +17,6 @@ const TranslateService = async (userText: string, targetLanguage: string) => {
     };
     const command = new TranslateTextCommand(params);
     const response = await client.send(command);
-    console.log(response);
-    console.log(command);
     return response.TranslatedText;
 };
 

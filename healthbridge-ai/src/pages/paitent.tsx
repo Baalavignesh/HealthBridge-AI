@@ -6,8 +6,8 @@ import UserInfoCard from "../components/userInfoCard";
 import { createThread, runThread } from "../services/assistant";
 import TranslateService from "../services/translation";
 import RingLoader from "react-spinners/RingLoader";
-import getInfo from "../services/getInfo";
 import { useNavigate } from "react-router-dom";
+import fetchDoctors from "../services/fetch_doctors";
 
 const Patient: React.FC = () => {
   const chunksRef = useRef<BlobPart[]>([]);
@@ -148,6 +148,33 @@ const Patient: React.FC = () => {
       createThread();
     }
   }, []);
+
+  useEffect(() => {
+    if(translatedUserText.length === 3 && translatedAiText.length === 3){
+
+      console.log("all responses are done");
+      // create user enquiry questions and ai enquiry questions
+      let userEnquiryQuestions: any = {};
+      let aiEnquiryQuestions: any = {};
+      for(let i = 0; i < userResponse.length; i++){
+        userEnquiryQuestions[userResponse[i]] = translatedUserText[i];
+        aiEnquiryQuestions[aiResponse[i]] = translatedAiText[i];
+      }
+
+      // fetch doctors
+      console.log(translatedUserText, userInfo.address)
+      fetchDoctors(translatedUserText, userInfo.address, userInfo.email, userInfo.user_name, userEnquiryQuestions, aiEnquiryQuestions).then((response) => {
+        console.log("response", response);
+        let recommendedDoctors: any = response.doctors;
+        // let uuid: string = response.uuid;
+        console.log("recommendedDoctors", recommendedDoctors);
+
+
+        // addUserEnquiry(userInfo, userEnquiryQuestions, aiEnquiryQuestions, recommendedDoctors, uuid);
+      });
+    }
+  }, [translatedAiText]);
+  
 
   const initializeUserInfo = async () => {
     const localUserInfo = localStorage.getItem("userinfo");

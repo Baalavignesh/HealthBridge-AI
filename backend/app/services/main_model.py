@@ -5,14 +5,13 @@ from torch.utils.data import Dataset
 from transformers import (
     DistilBertTokenizerFast,
     DistilBertForSequenceClassification,
-    Trainer,
-    TrainingArguments,
 )
+import re
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 # Cell 2: Load the synthetic dataset
-df_train = pd.read_csv("D:\Hackthon\Train.csv\Train.csv")
+df_train = pd.read_csv("datasets/Train.csv")
 df_train = df_train.drop(columns=["transcription"])
 print(df_train.head())
 
@@ -63,13 +62,22 @@ df_train.head(20)
 
 
 # Cell 6: Load the trained DistilBERT model + tokenizer
-model_path = "./doctor_specialty_model"
+model_path = "model"
 
 trained_model = DistilBertForSequenceClassification.from_pretrained(model_path)
 trained_tokenizer = DistilBertTokenizerFast.from_pretrained(model_path)
 trained_model.to(device)
 trained_model.eval()
 
+def normalize_location(loc):
+
+        if isinstance(loc, str):  # Ensure input is a string
+            loc = loc.lower()  # Convert to lowercase
+            loc = re.sub(r'[^\w\s]', '', loc)  # Remove punctuation (e.g., periods)
+            loc = loc.strip()  # Remove leading/trailing spaces
+            return loc
+        return loc
+    
 def predict_specialty(complaint_text):
     """
     Predict the medical specialty for the given complaint_text
@@ -122,9 +130,11 @@ def recommend_doctors(complaint_text, user_location, doctors_csv_path):
     df_specialty_6 = df["medical_specialty"].str.strip().str.lower().str[:6]
     filtered_df = df[df_specialty_6 == specialty_6]
 
-    user_loc_clean = user_location.strip().lower()
+
+    normalized_user_location = normalize_location(user_location)
     filtered_df = filtered_df[
-        (filtered_df["hospital_state"].str.strip().str.lower() == user_location.strip().lower())]
+    filtered_df["hospital_state"].apply(normalize_location) == normalized_user_location
+]
     
     # Output results
     if filtered_df.empty:
@@ -134,19 +144,16 @@ def recommend_doctors(complaint_text, user_location, doctors_csv_path):
     return filtered_df
 
 # Cell 8: Example usage of the entire pipeline
-def entry_point():
-    
-    # Example user complaint
-    complaint_text = "I tore my ACL while playing soccer and need surgery."
-    
-    # User location and insurance
-    user_location = "maryland"
-    
-    
-    # Path to your Fake_Doctors_DMV_Dataset.csv
-    doctors_csv_path = "doctors.csv"
+def getDoctorsService(paitent_issue, user_location):
+    complaint_text = paitent_issue
+    doctors_csv_path = "datasets/doctors.csv"
 
-    
     # Get recommendations
-    recommendations = recommend_doctors(complaint_text, user_location, doctors_csv_path)
+    recommendations =  recommend_doctors(complaint_text, user_location, doctors_csv_path)
+    print(recommendations)
+    # Convert the DataFrame to a dictionary
+    if not recommendations.empty:
+        return recommendations.to_dict(orient='records')  # Convert to list of records (dicts)
+    else:
+        return {"message": "No doctors found", "doctors": []}
     

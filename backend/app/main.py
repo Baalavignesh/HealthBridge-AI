@@ -1,6 +1,9 @@
+from typing import List
 from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
-from services.dynamoDB import addUser, loginUser, getUserInfo
+from services.dynamoDB import addUser, loginUser, getUserInfo, addDoctorsFromCSV, addUserEnquiryToDynamoDB, notifyDoctors
+from services.main_model import getDoctorsService
+import uuid
 
 app = FastAPI(
     title="My FastAPI App",
@@ -49,6 +52,39 @@ async def getInfo(email: str):
     user = getUserInfo(email)
     return {"message": "Get info successful", "user": user}
 
+@app.post("/getDoctors")    
+async def getDoctors(request: Request):
+    data = await request.json()
+    print(data)
+    paitent_issue = data['paitent_issue']
+    user_location = data['user_location']
+    paitent_email = data['email']
+    paitent_name = data['name']
+    userEnquiryQuestions = data['userEnquiryQuestions']
+    aiEnquiryQuestions = data['aiEnquiryQuestions']
+    
+    print({"paitent_issue": paitent_issue, "user_location": user_location})
+    doctors = getDoctorsService(paitent_issue, user_location)
+    print(doctors)
+    
+    uuid_value = str(uuid.uuid4())
+    print(uuid_value)
+    result = notifyDoctors(doctors, uuid_value, paitent_email, paitent_name, userEnquiryQuestions, aiEnquiryQuestions)
+    return {"message": "Get doctors successful", "doctors": doctors, "uuid": uuid_value, "result": result}
+
+
+@app.post("/addUserEnquiry")
+async def addUserEnquiry(request: Request):
+    data = await request.json()
+    print("data from addUserEnquiry, backend", data)
+    addUserEnquiryToDynamoDB(data)
+    return {"message": "Add user enquiry successful"}
+
 @app.get("/health")
 async def health_check():
-    return {"status": "healthy"} 
+    return {"status": "healthy"}
+
+@app.get("/addAllDoctors")
+async def addAllDoctors():
+    result = addDoctorsFromCSV()
+    return result 
