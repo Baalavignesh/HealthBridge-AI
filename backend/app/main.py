@@ -1,7 +1,7 @@
 from typing import List
 from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
-from services.dynamoDB import addUser, loginUser, getUserInfo, addDoctorsFromCSV, addUserEnquiryToDynamoDB, notifyDoctors
+from services.dynamoDB import addUser, fetchActivePatientsService, loginUser, getUserInfo, addDoctorsFromCSV, addUserEnquiryToDynamoDB, notifyDoctors
 from services.main_model import getDoctorsService
 import uuid
 
@@ -88,3 +88,10 @@ async def health_check():
 async def addAllDoctors():
     result = addDoctorsFromCSV()
     return result 
+
+@app.get("/fetchActivePatients/{doctor_email}")
+
+async def fetchActivePatients(doctor_email: str):
+    print("fetchActivePatients, backend", doctor_email)
+    result = fetchActivePatientsService(doctor_email)
+    return result

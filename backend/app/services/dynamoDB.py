@@ -179,3 +179,32 @@ def notifyDoctors(doctors, uuid, paitent_mail, paitent_name, userEnquiryQuestion
         print("Error notifying doctors:", str(e))
         return {"message": "Error notifying doctors", "error": str(e)}
     
+def fetchActivePatientsService(doctor_email):
+    print("fetchActivePatientsService, DynamoDB", doctor_email)
+    response = client.scan(
+        TableName='apointment-info',
+        FilterExpression='doctor = :doctor',
+        ExpressionAttributeValues={':doctor': {'S': doctor_email}}
+    )
+        
+    if response['Items']:
+        print("response['Items']", response['Items'])
+        # Convert each item in the list
+        patients_data = []
+        deserialized_items = []
+        for item in response['Items']:
+            deserialized_item = MyTypeDeserializer(item)
+            # Also deserialize the nested maps
+            if 'user_enquiry_questions' in deserialized_item:
+                deserialized_item['user_enquiry_questions'] = [v for v in deserialized_item['user_enquiry_questions'].values()]
+            if 'ai_enquiry_questions' in deserialized_item:
+                deserialized_item['ai_enquiry_questions'] = [v for v in deserialized_item['ai_enquiry_questions'].values()]
+            
+            deserialized_items.append(deserialized_item)
+            patient_info = getUserInfo(deserialized_item['paitent'])
+            print('further info', patient_info)
+            if patient_info:
+                patients_data.append(patient_info)
+        return [deserialized_items, patients_data]
+    else:
+        return {"message": "No active patients found"}

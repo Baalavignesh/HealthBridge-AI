@@ -11,4 +11,11 @@ const addUserEnquiry = async (userInfo: any, userEnquiryQuestions: any, aiEnquir
     return response.data
 }
 
-export {getInfo, addUserEnquiry}
+const fetchActivePatients = async (doctor_email: string) => {
+    const response = await axios.get(`http://localhost:8000/fetchActivePatients/${doctor_email}`)
+    console.log("response data", response.data)
+    return response.data
+}
+
+
+export {getInfo, addUserEnquiry, fetchActivePatients}
