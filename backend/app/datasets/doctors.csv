@@ -1,0 +1,1001 @@
+doctor_name,medical_specialty,phone_number,email,hospital_name,hospital_state,password
+Sarah Clark,Surgery,(703) 555-9020,sarah.clark@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Charles Miller,Surgery,(202) 555-0756,charles.miller@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Janet Jackson,Cardiovascular / Pulmonary,(703) 555-9659,janet.jackson@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Carol Young,Orthopedic,(301) 555-3933,carol.young@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Joshua Campbell,Sleep Medicine,(571) 555-6565,joshua.campbell@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Gregory Lee,Surgery,(301) 555-9734,gregory.lee@hospital.com,Virginia Hospital Center,Virginia,abcd
+Christine Scott,Consult - History and Phy.,(571) 555-7658,christine.scott@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Maria Green,Orthopedic,(571) 555-4030,maria.green@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Christopher Torres,Surgery,(703) 555-3308,christopher.torres@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Helen Mitchell,Consult - History and Phy.,(703) 555-6797,helen.mitchell@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Janet Gonzalez,Orthopedic,(301) 555-8567,janet.gonzalez@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+David Campbell,Surgery,(240) 555-8473,david.campbell@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Thomas Davis,Consult - History and Phy.,(240) 555-8034,thomas.davis@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Cynthia Brown,Orthopedic,(301) 555-2057,cynthia.brown@hospital.com,Virginia Hospital Center,Virginia,abcd
+Anthony Jones,Surgery,(301) 555-3974,anthony.jones@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Christine Taylor,Neurology,(301) 555-0561,christine.taylor@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Timothy Young,Radiology,(240) 555-1060,timothy.young@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Jessica Davis,Surgery,(240) 555-4704,jessica.davis@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Sarah Young,General Medicine,(703) 555-6861,sarah.young@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Sarah Young,Consult - History and Phy.,(301) 555-9526,sarah.young@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Linda Garcia,Nephrology,(571) 555-8271,linda.garcia@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Barbara Anderson,Radiology,(240) 555-6900,barbara.anderson@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Jessica Smith,Surgery,(571) 555-5689,jessica.smith@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Andrew Torres,Gastroenterology,(571) 555-8287,andrew.torres@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Sandra Mitchell,Nephrology,(571) 555-4772,sandra.mitchell@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Daniel Robinson,Discharge Summary,(571) 555-8048,daniel.robinson@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+David Jackson,Consult - History and Phy.,(301) 555-6890,david.jackson@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Christopher Hill,Surgery,(240) 555-2415,christopher.hill@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Ruth Allen,Surgery,(240) 555-6142,ruth.allen@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Deborah Ramirez,Surgery,(202) 555-2893,deborah.ramirez@hospital.com,Virginia Hospital Center,Virginia,abcd
+Matthew Hernandez,Consult - History and Phy.,(571) 555-5344,matthew.hernandez@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Mary Anderson,Radiology,(571) 555-8668,mary.anderson@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Paul Robinson,General Medicine,(301) 555-4199,paul.robinson@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Charles Mitchell,Surgery,(240) 555-0151,charles.mitchell@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Helen King,Surgery,(301) 555-8934,helen.king@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Edward Martinez,SOAP / Chart / Progress Notes,(703) 555-8501,edward.martinez@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Donald Perez,SOAP / Chart / Progress Notes,(703) 555-8568,donald.perez@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Mark Baker,Orthopedic,(301) 555-7143,mark.baker@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Robert Johnson,Discharge Summary,(571) 555-8254,robert.johnson@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Joshua Davis,Nephrology,(703) 555-3541,joshua.davis@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Timothy Lee,Surgery,(571) 555-8340,timothy.lee@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Nancy Thompson,Surgery,(703) 555-6032,nancy.thompson@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Sharon Lee,Nephrology,(240) 555-5685,sharon.lee@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Andrew Martinez,Surgery,(571) 555-2701,andrew.martinez@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Nancy Carter,Orthopedic,(571) 555-4748,nancy.carter@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Emma Hill,Surgery,(240) 555-5140,emma.hill@hospital.com,Virginia Hospital Center,Virginia,abcd
+Kevin Martinez,Cardiovascular / Pulmonary,(240) 555-0812,kevin.martinez@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Paul Jackson,Surgery,(240) 555-0209,paul.jackson@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Daniel Allen,ENT - Otolaryngology,(703) 555-7220,daniel.allen@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Maria Miller,Consult - History and Phy.,(571) 555-9408,maria.miller@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Jennifer Clark,Orthopedic,(301) 555-5985,jennifer.clark@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Cynthia Evans,Surgery,(301) 555-7033,cynthia.evans@hospital.com,Virginia Hospital Center,Virginia,abcd
+Mary Hill,Cardiovascular / Pulmonary,(240) 555-8869,mary.hill@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Brian White,Neurology,(571) 555-4838,brian.white@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Michael Torres,Neurology,(240) 555-7737,michael.torres@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Helen Jackson,Consult - History and Phy.,(240) 555-8113,helen.jackson@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Timothy Lewis,Orthopedic,(703) 555-5901,timothy.lewis@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Daniel Torres,Cardiovascular / Pulmonary,(301) 555-3996,daniel.torres@hospital.com,Virginia Hospital Center,Virginia,abcd
+Mary Martin,Surgery,(703) 555-6773,mary.martin@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Christine Perez,Neurosurgery,(301) 555-8639,christine.perez@hospital.com,Virginia Hospital Center,Virginia,abcd
+Matthew Nelson,Office Notes,(202) 555-7022,matthew.nelson@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+John Hill,SOAP / Chart / Progress Notes,(202) 555-4543,john.hill@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Robert Anderson,Orthopedic,(703) 555-3694,robert.anderson@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Janet Hill,ENT - Otolaryngology,(240) 555-6047,janet.hill@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Janet Scott,Orthopedic,(703) 555-2951,janet.scott@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Joshua Anderson,Surgery,(240) 555-8837,joshua.anderson@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Carol Moore,Cosmetic / Plastic Surgery,(301) 555-9964,carol.moore@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Susan Hall,Gastroenterology,(703) 555-2459,susan.hall@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Thomas Martin,Cardiovascular / Pulmonary,(301) 555-0445,thomas.martin@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Timothy Baker,Surgery,(240) 555-3584,timothy.baker@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Mark Evans,ENT - Otolaryngology,(703) 555-1347,mark.evans@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Julie Gonzalez,Radiology,(703) 555-3702,julie.gonzalez@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Joshua Brown,Radiology,(703) 555-1075,joshua.brown@hospital.com,Virginia Hospital Center,Virginia,abcd
+Edward Lewis,Cardiovascular / Pulmonary,(301) 555-6500,edward.lewis@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Thomas Lewis,General Medicine,(240) 555-3987,thomas.lewis@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Janet Allen,Gastroenterology,(301) 555-4266,janet.allen@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+John Carter,Orthopedic,(202) 555-5459,john.carter@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Charles Moore,ENT - Otolaryngology,(202) 555-9310,charles.moore@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Edward Johnson,Cardiovascular / Pulmonary,(240) 555-6605,edward.johnson@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+James Thompson,Surgery,(301) 555-1993,james.thompson@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Kevin Turner,General Medicine,(240) 555-8826,kevin.turner@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Christine Lopez,Radiology,(301) 555-5264,christine.lopez@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Thomas Mitchell,Radiology,(571) 555-2920,thomas.mitchell@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Carol Hall,Surgery,(703) 555-1045,carol.hall@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Sarah Perez,Gastroenterology,(703) 555-9178,sarah.perez@hospital.com,Virginia Hospital Center,Virginia,abcd
+Jennifer Miller,General Medicine,(703) 555-0174,jennifer.miller@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Andrew Williams,Pain Management,(703) 555-7231,andrew.williams@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Gregory Adams,Cardiovascular / Pulmonary,(240) 555-5662,gregory.adams@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Edward Hernandez,Gastroenterology,(240) 555-5161,edward.hernandez@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Susan Miller,Surgery,(703) 555-5371,susan.miller@hospital.com,Virginia Hospital Center,Virginia,abcd
+Gregory Mitchell,Surgery,(202) 555-5144,gregory.mitchell@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Karen Perez,Consult - History and Phy.,(240) 555-6253,karen.perez@hospital.com,Howard University Hospital,Washington D.C.,abcd
+James Gonzalez,Ophthalmology,(703) 555-7023,james.gonzalez@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Timothy Brown,Surgery,(571) 555-2148,timothy.brown@hospital.com,Virginia Hospital Center,Virginia,abcd
+Kevin Smith,General Medicine,(301) 555-9481,kevin.smith@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Helen Lopez,General Medicine,(571) 555-6203,helen.lopez@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Mary Harris,Consult - History and Phy.,(240) 555-4210,mary.harris@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Christine Hill,SOAP / Chart / Progress Notes,(301) 555-9754,christine.hill@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Joshua Smith,General Medicine,(240) 555-3802,joshua.smith@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Nancy Torres,Surgery,(301) 555-3915,nancy.torres@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Sandra Rodriguez,Nephrology,(301) 555-0022,sandra.rodriguez@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Karen Phillips,Neurology,(301) 555-2360,karen.phillips@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Christopher Brown,Surgery,(240) 555-5884,christopher.brown@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Donald Walker,Cardiovascular / Pulmonary,(571) 555-4892,donald.walker@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Linda Clark,Hematology - Oncology,(240) 555-8273,linda.clark@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Thomas Lopez,Orthopedic,(571) 555-1628,thomas.lopez@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Maria Miller,Cardiovascular / Pulmonary,(571) 555-6326,maria.miller@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Ruth Nelson,ENT - Otolaryngology,(703) 555-7978,ruth.nelson@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Helen Taylor,Consult - History and Phy.,(240) 555-9951,helen.taylor@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Nancy Hernandez,SOAP / Chart / Progress Notes,(703) 555-4917,nancy.hernandez@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Ruth Adams,Surgery,(240) 555-0660,ruth.adams@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Sarah Young,General Medicine,(703) 555-2273,sarah.young@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Betty Roberts,Cardiovascular / Pulmonary,(202) 555-3799,betty.roberts@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Jessica Rodriguez,Surgery,(703) 555-1183,jessica.rodriguez@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Linda Thomas,Radiology,(703) 555-6969,linda.thomas@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Thomas Scott,Orthopedic,(301) 555-7316,thomas.scott@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Edward Robinson,Consult - History and Phy.,(202) 555-1868,edward.robinson@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Linda Anderson,Podiatry,(571) 555-4153,linda.anderson@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Andrew Taylor,Cardiovascular / Pulmonary,(571) 555-9851,andrew.taylor@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+George Nelson,Surgery,(240) 555-8339,george.nelson@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Patricia Johnson,Gastroenterology,(301) 555-6621,patricia.johnson@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+James Hill,ENT - Otolaryngology,(240) 555-7232,james.hill@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Thomas Jackson,Ophthalmology,(240) 555-6221,thomas.jackson@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Janet Brown,Orthopedic,(240) 555-4794,janet.brown@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Donald Phillips,General Medicine,(703) 555-0766,donald.phillips@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+James Lopez,Surgery,(240) 555-2053,james.lopez@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Diane Davis,SOAP / Chart / Progress Notes,(703) 555-8040,diane.davis@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Rachel Miller,Cardiovascular / Pulmonary,(301) 555-4115,rachel.miller@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Steven Torres,Neurology,(240) 555-3876,steven.torres@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Rachel Nelson,Surgery,(301) 555-4832,rachel.nelson@hospital.com,Virginia Hospital Center,Virginia,abcd
+Diane Adams,Surgery,(571) 555-0230,diane.adams@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Jessica Davis,SOAP / Chart / Progress Notes,(240) 555-8319,jessica.davis@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Diane Taylor,Surgery,(703) 555-0276,diane.taylor@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Emma Walker,Gastroenterology,(301) 555-3239,emma.walker@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Kenneth Allen,Nephrology,(301) 555-6184,kenneth.allen@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Donald Roberts,Gastroenterology,(240) 555-5153,donald.roberts@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Betty Adams,Consult - History and Phy.,(703) 555-5228,betty.adams@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Brian Young,Radiology,(301) 555-0067,brian.young@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Gregory Thompson,Consult - History and Phy.,(301) 555-2131,gregory.thompson@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+George Taylor,Surgery,(571) 555-1405,george.taylor@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Julie Martinez,Surgery,(703) 555-8346,julie.martinez@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Nancy Jackson,General Medicine,(571) 555-1312,nancy.jackson@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Gregory Martin,Cardiovascular / Pulmonary,(301) 555-1278,gregory.martin@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Brian Mitchell,Gastroenterology,(202) 555-5052,brian.mitchell@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Anthony Carter,Surgery,(301) 555-7599,anthony.carter@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Jennifer Carter,Neurology,(240) 555-4249,jennifer.carter@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Robert Thompson,Consult - History and Phy.,(301) 555-3842,robert.thompson@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+James Mitchell,Orthopedic,(703) 555-7491,james.mitchell@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Helen Adams,Gastroenterology,(240) 555-9672,helen.adams@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Christine Taylor,Neurology,(301) 555-2284,christine.taylor@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Donald Smith,Orthopedic,(202) 555-6140,donald.smith@hospital.com,Virginia Hospital Center,Virginia,abcd
+Mary Davis,Consult - History and Phy.,(703) 555-8969,mary.davis@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Susan Brown,Neurosurgery,(240) 555-7957,susan.brown@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Rachel Lopez,Psychiatry / Psychology,(301) 555-7115,rachel.lopez@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Julie Lee,Cardiovascular / Pulmonary,(571) 555-6334,julie.lee@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Nancy Nelson,Pain Management,(703) 555-8816,nancy.nelson@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Edward Davis,Consult - History and Phy.,(571) 555-2493,edward.davis@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Cynthia Clark,Surgery,(301) 555-2452,cynthia.clark@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Helen Nelson,Psychiatry / Psychology,(240) 555-3721,helen.nelson@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Anthony Scott,Neurology,(202) 555-1041,anthony.scott@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Anthony Sanchez,Dentistry,(571) 555-2404,anthony.sanchez@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Janet Jones,Radiology,(301) 555-5905,janet.jones@hospital.com,Virginia Hospital Center,Virginia,abcd
+Deborah Gonzalez,Neurology,(301) 555-0363,deborah.gonzalez@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Linda Allen,Orthopedic,(301) 555-0567,linda.allen@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Barbara Brown,Surgery,(571) 555-2013,barbara.brown@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Sharon Hernandez,Surgery,(202) 555-3981,sharon.hernandez@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Helen Thompson,Surgery,(571) 555-2890,helen.thompson@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Susan Baker,Ophthalmology,(240) 555-6946,susan.baker@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+David Jones,Surgery,(240) 555-1318,david.jones@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Sandra Miller,Cardiovascular / Pulmonary,(703) 555-8715,sandra.miller@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Mark Allen,SOAP / Chart / Progress Notes,(301) 555-5482,mark.allen@hospital.com,Howard University Hospital,Washington D.C.,abcd
+David Mitchell,Surgery,(301) 555-8471,david.mitchell@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Betty Martin,Discharge Summary,(703) 555-7791,betty.martin@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Jessica Wright,Cardiovascular / Pulmonary,(703) 555-5267,jessica.wright@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Emma Torres,Neurosurgery,(240) 555-3762,emma.torres@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Helen Turner,Pain Management,(301) 555-1602,helen.turner@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Steven Roberts,Surgery,(571) 555-6852,steven.roberts@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Emma Davis,Surgery,(301) 555-1897,emma.davis@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Ruth Hill,General Medicine,(301) 555-7514,ruth.hill@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Lisa Rodriguez,Surgery,(240) 555-9209,lisa.rodriguez@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Rachel Lewis,Discharge Summary,(571) 555-1673,rachel.lewis@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Barbara Wilson,Surgery,(703) 555-9579,barbara.wilson@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Rachel Torres,Cardiovascular / Pulmonary,(571) 555-1624,rachel.torres@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Ruth Lee,Surgery,(571) 555-5150,ruth.lee@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Kevin Lopez,Surgery,(703) 555-9876,kevin.lopez@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+George Hill,Psychiatry / Psychology,(571) 555-2425,george.hill@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Michael Hall,Gastroenterology,(301) 555-1662,michael.hall@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Maria Rodriguez,Discharge Summary,(240) 555-9951,maria.rodriguez@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+James Hall,Radiology,(240) 555-8565,james.hall@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Sarah Harris,Surgery,(240) 555-1694,sarah.harris@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Christine Phillips,Psychiatry / Psychology,(240) 555-1419,christine.phillips@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Edward Harris,Cardiovascular / Pulmonary,(240) 555-9520,edward.harris@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Christine Lopez,Surgery,(571) 555-4666,christine.lopez@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Rachel Wright,Orthopedic,(240) 555-5217,rachel.wright@hospital.com,Virginia Hospital Center,Virginia,abcd
+Mary Thompson,SOAP / Chart / Progress Notes,(703) 555-7819,mary.thompson@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Matthew Campbell,Orthopedic,(571) 555-4465,matthew.campbell@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Kevin Jackson,Orthopedic,(301) 555-8159,kevin.jackson@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Kevin Robinson,Neurology,(301) 555-0092,kevin.robinson@hospital.com,Virginia Hospital Center,Virginia,abcd
+John Perez,Pain Management,(703) 555-2271,john.perez@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Lisa Young,Consult - History and Phy.,(703) 555-6709,lisa.young@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Kenneth Allen,Orthopedic,(571) 555-4617,kenneth.allen@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Edward Hill,Nephrology,(703) 555-0810,edward.hill@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Mary Lopez,General Medicine,(571) 555-0574,mary.lopez@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Kevin Smith,Cardiovascular / Pulmonary,(240) 555-9778,kevin.smith@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Jessica Perez,Orthopedic,(240) 555-0734,jessica.perez@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Deborah Brown,Gastroenterology,(301) 555-7450,deborah.brown@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Thomas Perez,Discharge Summary,(571) 555-4259,thomas.perez@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Sandra Brown,Cosmetic / Plastic Surgery,(703) 555-6411,sandra.brown@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Charles Clark,Neurology,(571) 555-7793,charles.clark@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Mark Lee,Consult - History and Phy.,(703) 555-3518,mark.lee@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Michael Roberts,Consult - History and Phy.,(240) 555-7382,michael.roberts@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Susan Torres,Consult - History and Phy.,(240) 555-1373,susan.torres@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Sandra Jones,General Medicine,(301) 555-2036,sandra.jones@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Kevin Johnson,ENT - Otolaryngology,(703) 555-5509,kevin.johnson@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Christopher Roberts,Surgery,(571) 555-7828,christopher.roberts@hospital.com,Virginia Hospital Center,Virginia,abcd
+Lisa Miller,Surgery,(301) 555-1885,lisa.miller@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Julie Clark,Surgery,(571) 555-9559,julie.clark@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Patricia Johnson,Surgery,(703) 555-8689,patricia.johnson@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Jessica Clark,Neurology,(202) 555-3074,jessica.clark@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Anthony Hernandez,Gastroenterology,(301) 555-3030,anthony.hernandez@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+George Clark,Ophthalmology,(301) 555-5557,george.clark@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Julie Gonzalez,Orthopedic,(240) 555-6480,julie.gonzalez@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Thomas Carter,Radiology,(571) 555-2179,thomas.carter@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Carol Scott,Surgery,(240) 555-3301,carol.scott@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Brian Smith,Discharge Summary,(703) 555-5519,brian.smith@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Emma Scott,Surgery,(301) 555-3681,emma.scott@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Christine Roberts,Consult - History and Phy.,(301) 555-4925,christine.roberts@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Kenneth Green,Discharge Summary,(202) 555-4470,kenneth.green@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Gregory Ramirez,Orthopedic,(301) 555-0205,gregory.ramirez@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Julie Young,Nephrology,(301) 555-8998,julie.young@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Sandra Ramirez,Cardiovascular / Pulmonary,(240) 555-5845,sandra.ramirez@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Michael Adams,Radiology,(703) 555-9287,michael.adams@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Emma Anderson,Consult - History and Phy.,(301) 555-6715,emma.anderson@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Mark Hill,Cardiovascular / Pulmonary,(703) 555-0515,mark.hill@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Julie Moore,Neurology,(240) 555-2444,julie.moore@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Gregory Roberts,Pain Management,(301) 555-2533,gregory.roberts@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Christopher Roberts,Radiology,(301) 555-2833,christopher.roberts@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Charles Jones,Podiatry,(571) 555-2829,charles.jones@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Anthony Walker,Cardiovascular / Pulmonary,(301) 555-7278,anthony.walker@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Mary Phillips,Discharge Summary,(571) 555-6842,mary.phillips@hospital.com,Virginia Hospital Center,Virginia,abcd
+Rachel Taylor,Consult - History and Phy.,(571) 555-7626,rachel.taylor@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Karen Walker,Surgery,(703) 555-7671,karen.walker@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Maria Young,Consult - History and Phy.,(240) 555-1977,maria.young@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Brian Campbell,Surgery,(571) 555-7538,brian.campbell@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Nancy Scott,Surgery,(202) 555-0693,nancy.scott@hospital.com,Howard University Hospital,Washington D.C.,abcd
+George Ramirez,Surgery,(301) 555-8805,george.ramirez@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Daniel Moore,Surgery,(571) 555-6330,daniel.moore@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Mark Adams,Radiology,(202) 555-5377,mark.adams@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Janet Davis,ENT - Otolaryngology,(301) 555-9021,janet.davis@hospital.com,Virginia Hospital Center,Virginia,abcd
+Emma Hall,Cosmetic / Plastic Surgery,(571) 555-1806,emma.hall@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Mary Brown,Psychiatry / Psychology,(301) 555-0215,mary.brown@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Julie Wright,General Medicine,(301) 555-5143,julie.wright@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Daniel Jackson,Ophthalmology,(301) 555-1322,daniel.jackson@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Kenneth Wilson,Surgery,(703) 555-1830,kenneth.wilson@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Ruth Wright,Radiology,(703) 555-8068,ruth.wright@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Paul Robinson,Radiology,(703) 555-7554,paul.robinson@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Robert Hernandez,Gastroenterology,(571) 555-4830,robert.hernandez@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Helen Turner,Gastroenterology,(703) 555-5900,helen.turner@hospital.com,Virginia Hospital Center,Virginia,abcd
+Patricia Baker,Radiology,(301) 555-4480,patricia.baker@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+John Allen,Surgery,(301) 555-0205,john.allen@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Lisa White,Discharge Summary,(571) 555-6966,lisa.white@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Paul Hernandez,SOAP / Chart / Progress Notes,(703) 555-1759,paul.hernandez@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Ruth Martin,SOAP / Chart / Progress Notes,(202) 555-0384,ruth.martin@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Matthew Perez,Surgery,(703) 555-0690,matthew.perez@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Diane White,Ophthalmology,(240) 555-2974,diane.white@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Emma Moore,Pain Management,(301) 555-1384,emma.moore@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Robert Allen,Gastroenterology,(571) 555-4811,robert.allen@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Christopher Walker,Surgery,(703) 555-7137,christopher.walker@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Carol Williams,Surgery,(240) 555-2819,carol.williams@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Mark Wright,Cardiovascular / Pulmonary,(301) 555-0805,mark.wright@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Kenneth Smith,Dermatology,(703) 555-4738,kenneth.smith@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Jessica Baker,Radiology,(240) 555-6799,jessica.baker@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Matthew Thomas,Office Notes,(703) 555-9120,matthew.thomas@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Deborah Roberts,Discharge Summary,(301) 555-3920,deborah.roberts@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Maria Miller,Surgery,(571) 555-5925,maria.miller@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Jennifer Perez,Gastroenterology,(240) 555-0190,jennifer.perez@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Thomas Jones,Surgery,(202) 555-1035,thomas.jones@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Carol Harris,SOAP / Chart / Progress Notes,(571) 555-4821,carol.harris@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Janet Williams,Podiatry,(571) 555-9848,janet.williams@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Ruth Thompson,Cardiovascular / Pulmonary,(571) 555-2780,ruth.thompson@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Cynthia Perez,Radiology,(703) 555-8758,cynthia.perez@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Betty Young,Orthopedic,(301) 555-4868,betty.young@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Paul Torres,Consult - History and Phy.,(301) 555-0821,paul.torres@hospital.com,Virginia Hospital Center,Virginia,abcd
+Thomas Hill,Ophthalmology,(703) 555-0546,thomas.hill@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Sharon Taylor,Cardiovascular / Pulmonary,(301) 555-6964,sharon.taylor@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Rachel Lewis,Cosmetic / Plastic Surgery,(703) 555-2590,rachel.lewis@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Jessica Anderson,Cardiovascular / Pulmonary,(202) 555-5421,jessica.anderson@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Steven Thomas,Surgery,(301) 555-5005,steven.thomas@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Donald Lopez,Cardiovascular / Pulmonary,(202) 555-7109,donald.lopez@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Helen Lee,SOAP / Chart / Progress Notes,(571) 555-4371,helen.lee@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Rachel Wright,Ophthalmology,(571) 555-8737,rachel.wright@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Diane Sanchez,Consult - History and Phy.,(703) 555-2904,diane.sanchez@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Steven Carter,Cardiovascular / Pulmonary,(571) 555-4133,steven.carter@hospital.com,Virginia Hospital Center,Virginia,abcd
+Cynthia Phillips,Surgery,(301) 555-4044,cynthia.phillips@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Emma Baker,Neurology,(571) 555-3745,emma.baker@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Kenneth Johnson,Consult - History and Phy.,(571) 555-3285,kenneth.johnson@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Patricia Baker,Surgery,(240) 555-1819,patricia.baker@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Timothy Garcia,Radiology,(703) 555-7236,timothy.garcia@hospital.com,Virginia Hospital Center,Virginia,abcd
+Christopher Anderson,General Medicine,(571) 555-6928,christopher.anderson@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Diane Adams,Consult - History and Phy.,(301) 555-8056,diane.adams@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Emma Clark,Cardiovascular / Pulmonary,(301) 555-6028,emma.clark@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Christine Adams,ENT - Otolaryngology,(301) 555-8620,christine.adams@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Rachel Harris,Nephrology,(301) 555-1087,rachel.harris@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Donald Mitchell,Surgery,(301) 555-1278,donald.mitchell@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Christopher Roberts,Cardiovascular / Pulmonary,(240) 555-4278,christopher.roberts@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Ruth Allen,General Medicine,(571) 555-5680,ruth.allen@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Matthew Sanchez,Surgery,(571) 555-3281,matthew.sanchez@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Jessica Wilson,Surgery,(240) 555-8302,jessica.wilson@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Mark Martin,Orthopedic,(202) 555-9224,mark.martin@hospital.com,Virginia Hospital Center,Virginia,abcd
+Betty Hernandez,ENT - Otolaryngology,(703) 555-2946,betty.hernandez@hospital.com,Virginia Hospital Center,Virginia,abcd
+Ruth Turner,Surgery,(202) 555-8094,ruth.turner@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Susan Hill,Cardiovascular / Pulmonary,(301) 555-9589,susan.hill@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Nancy Walker,Orthopedic,(571) 555-1964,nancy.walker@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Gregory Turner,Consult - History and Phy.,(240) 555-5210,gregory.turner@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Kenneth King,Radiology,(240) 555-4360,kenneth.king@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Nancy Robinson,Orthopedic,(571) 555-6411,nancy.robinson@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Diane Walker,Neurology,(301) 555-0737,diane.walker@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+David Thomas,Gastroenterology,(571) 555-0988,david.thomas@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Christine Campbell,Surgery,(571) 555-6443,christine.campbell@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Mary Adams,Podiatry,(703) 555-9348,mary.adams@hospital.com,Virginia Hospital Center,Virginia,abcd
+Brian King,SOAP / Chart / Progress Notes,(703) 555-1176,brian.king@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Susan Mitchell,Gastroenterology,(703) 555-4571,susan.mitchell@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Edward Brown,SOAP / Chart / Progress Notes,(301) 555-2929,edward.brown@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Jennifer Anderson,Orthopedic,(703) 555-4932,jennifer.anderson@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+James Davis,Hematology - Oncology,(703) 555-7470,james.davis@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Patricia Davis,Surgery,(703) 555-8141,patricia.davis@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Donald Wright,Consult - History and Phy.,(703) 555-5667,donald.wright@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+David King,Orthopedic,(240) 555-8845,david.king@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Kenneth Green,Surgery,(703) 555-5662,kenneth.green@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Timothy Harris,ENT - Otolaryngology,(240) 555-9053,timothy.harris@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Thomas Miller,Hematology - Oncology,(202) 555-2508,thomas.miller@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Sandra Johnson,ENT - Otolaryngology,(703) 555-3579,sandra.johnson@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Jennifer Thomas,ENT - Otolaryngology,(301) 555-0231,jennifer.thomas@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Mary Turner,Cardiovascular / Pulmonary,(240) 555-6888,mary.turner@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+James Lewis,Cardiovascular / Pulmonary,(703) 555-4805,james.lewis@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Anthony White,Gastroenterology,(571) 555-3652,anthony.white@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+George White,Neurosurgery,(571) 555-0185,george.white@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Janet Lewis,Surgery,(571) 555-6004,janet.lewis@hospital.com,Virginia Hospital Center,Virginia,abcd
+James Jones,Gastroenterology,(240) 555-5008,james.jones@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Sharon Wilson,Gastroenterology,(703) 555-9528,sharon.wilson@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Sharon Scott,SOAP / Chart / Progress Notes,(202) 555-8533,sharon.scott@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Michael Harris,Surgery,(571) 555-1590,michael.harris@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Rachel Torres,Cosmetic / Plastic Surgery,(202) 555-4041,rachel.torres@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Susan Sanchez,Hematology - Oncology,(571) 555-6574,susan.sanchez@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Paul Johnson,Surgery,(301) 555-5288,paul.johnson@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Anthony Martinez,Surgery,(301) 555-1943,anthony.martinez@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Patricia Wright,Radiology,(301) 555-5250,patricia.wright@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Anthony Harris,Surgery,(240) 555-4496,anthony.harris@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Diane Walker,Surgery,(703) 555-6614,diane.walker@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Sarah Clark,Surgery,(703) 555-4400,sarah.clark@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Julie Wright,Surgery,(703) 555-4330,julie.wright@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Thomas Garcia,Neurology,(571) 555-1082,thomas.garcia@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Helen Garcia,Cardiovascular / Pulmonary,(571) 555-6586,helen.garcia@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Deborah Martin,Nephrology,(301) 555-0300,deborah.martin@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Janet King,Pain Management,(703) 555-1762,janet.king@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Timothy Hill,Gastroenterology,(571) 555-2382,timothy.hill@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Rachel Torres,Radiology,(571) 555-4755,rachel.torres@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Kenneth Scott,Radiology,(202) 555-2891,kenneth.scott@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Janet Evans,Surgery,(571) 555-7864,janet.evans@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Carol Martinez,General Medicine,(240) 555-2930,carol.martinez@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Sharon Turner,Consult - History and Phy.,(240) 555-9727,sharon.turner@hospital.com,Virginia Hospital Center,Virginia,abcd
+Gregory Moore,SOAP / Chart / Progress Notes,(301) 555-5143,gregory.moore@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Michael Lopez,Gastroenterology,(301) 555-9932,michael.lopez@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Christine Johnson,Pain Management,(703) 555-7090,christine.johnson@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Brian Taylor,Gastroenterology,(202) 555-1522,brian.taylor@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Christopher Johnson,Orthopedic,(301) 555-3064,christopher.johnson@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Karen Sanchez,SOAP / Chart / Progress Notes,(571) 555-7446,karen.sanchez@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Patricia Moore,Surgery,(301) 555-0814,patricia.moore@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Jessica Campbell,Radiology,(571) 555-5983,jessica.campbell@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Mary Lewis,Surgery,(703) 555-8482,mary.lewis@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Janet Lewis,Podiatry,(240) 555-3728,janet.lewis@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Christine Wright,Gastroenterology,(703) 555-6382,christine.wright@hospital.com,Virginia Hospital Center,Virginia,abcd
+Lisa Hall,General Medicine,(240) 555-5374,lisa.hall@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Matthew Davis,ENT - Otolaryngology,(571) 555-8691,matthew.davis@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Linda Anderson,Consult - History and Phy.,(301) 555-5612,linda.anderson@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Robert Thompson,Neurology,(571) 555-9082,robert.thompson@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Barbara Rodriguez,Nephrology,(301) 555-1310,barbara.rodriguez@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Gregory Lee,Surgery,(571) 555-7303,gregory.lee@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Steven White,Pain Management,(301) 555-7252,steven.white@hospital.com,Virginia Hospital Center,Virginia,abcd
+Kevin Hall,Radiology,(240) 555-6472,kevin.hall@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+George Moore,Cosmetic / Plastic Surgery,(240) 555-7087,george.moore@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Patricia Hall,Surgery,(301) 555-4022,patricia.hall@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Diane Gonzalez,Consult - History and Phy.,(703) 555-2064,diane.gonzalez@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Anthony Phillips,Surgery,(240) 555-0568,anthony.phillips@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Rachel Thompson,Neurology,(301) 555-0222,rachel.thompson@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Thomas Martinez,ENT - Otolaryngology,(202) 555-0683,thomas.martinez@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Mary Lewis,Surgery,(301) 555-8019,mary.lewis@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Nancy White,Radiology,(202) 555-8473,nancy.white@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Anthony Robinson,Dermatology,(301) 555-4745,anthony.robinson@hospital.com,Virginia Hospital Center,Virginia,abcd
+Deborah Taylor,Consult - History and Phy.,(571) 555-8580,deborah.taylor@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Susan Green,Radiology,(301) 555-3893,susan.green@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Linda Smith,Surgery,(703) 555-0035,linda.smith@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Daniel Wright,ENT - Otolaryngology,(240) 555-8730,daniel.wright@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Donald Hall,Hematology - Oncology,(301) 555-4492,donald.hall@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Michael Turner,Surgery,(240) 555-6883,michael.turner@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Linda Clark,Consult - History and Phy.,(240) 555-6404,linda.clark@hospital.com,Howard University Hospital,Washington D.C.,abcd
+David Davis,Consult - History and Phy.,(240) 555-7512,david.davis@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Susan Williams,Radiology,(301) 555-9527,susan.williams@hospital.com,Virginia Hospital Center,Virginia,abcd
+Diane Mitchell,Cardiovascular / Pulmonary,(703) 555-9878,diane.mitchell@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Mark Moore,Surgery,(202) 555-8183,mark.moore@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+David Adams,Neurology,(301) 555-4811,david.adams@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Emma Green,Surgery,(301) 555-7345,emma.green@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Steven Thomas,General Medicine,(571) 555-3640,steven.thomas@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Barbara Green,Gastroenterology,(240) 555-1872,barbara.green@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Christopher Lopez,Surgery,(703) 555-6005,christopher.lopez@hospital.com,Virginia Hospital Center,Virginia,abcd
+Deborah Moore,Hematology - Oncology,(301) 555-6261,deborah.moore@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Jennifer Thomas,Orthopedic,(240) 555-7077,jennifer.thomas@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Gregory Allen,Orthopedic,(571) 555-0078,gregory.allen@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Sandra Roberts,Office Notes,(240) 555-2309,sandra.roberts@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Daniel Green,Surgery,(240) 555-2832,daniel.green@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Jennifer Ramirez,SOAP / Chart / Progress Notes,(240) 555-4416,jennifer.ramirez@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Linda Carter,Neurology,(571) 555-2635,linda.carter@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Andrew Carter,Ophthalmology,(301) 555-9844,andrew.carter@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Jessica Martinez,Neurosurgery,(571) 555-4381,jessica.martinez@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Donald Harris,Orthopedic,(571) 555-0086,donald.harris@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Christopher Walker,Cardiovascular / Pulmonary,(301) 555-5767,christopher.walker@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Christopher Miller,General Medicine,(703) 555-6450,christopher.miller@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Emma Miller,Neurology,(301) 555-6351,emma.miller@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Mark Hernandez,Surgery,(703) 555-5289,mark.hernandez@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Lisa Hill,Cardiovascular / Pulmonary,(703) 555-4766,lisa.hill@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Christine Rodriguez,Autopsy,(703) 555-8469,christine.rodriguez@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Jessica Harris,Radiology,(240) 555-1354,jessica.harris@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Mary Ramirez,Radiology,(703) 555-8123,mary.ramirez@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Daniel Martinez,Surgery,(703) 555-8544,daniel.martinez@hospital.com,University of Maryland Medical Center,Maryland,abcd
+James Carter,Cardiovascular / Pulmonary,(703) 555-0111,james.carter@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Paul Hernandez,Orthopedic,(240) 555-1809,paul.hernandez@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Janet Martinez,Sleep Medicine,(571) 555-8458,janet.martinez@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Michael Davis,Radiology,(301) 555-8518,michael.davis@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Daniel Roberts,SOAP / Chart / Progress Notes,(571) 555-2268,daniel.roberts@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Lisa Thompson,Nephrology,(240) 555-1076,lisa.thompson@hospital.com,Children's National Hospital,Washington D.C.,abcd
+George Carter,Orthopedic,(240) 555-6319,george.carter@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Thomas Jackson,Cardiovascular / Pulmonary,(301) 555-6506,thomas.jackson@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Sarah Anderson,Surgery,(202) 555-3152,sarah.anderson@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Lisa Thompson,Surgery,(703) 555-7209,lisa.thompson@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Deborah Sanchez,Discharge Summary,(301) 555-5154,deborah.sanchez@hospital.com,Virginia Hospital Center,Virginia,abcd
+Daniel Baker,General Medicine,(240) 555-2219,daniel.baker@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Robert Clark,Consult - History and Phy.,(571) 555-7737,robert.clark@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Carol Lewis,Neurology,(703) 555-7569,carol.lewis@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+David Campbell,Surgery,(240) 555-4609,david.campbell@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Karen Moore,Surgery,(240) 555-9264,karen.moore@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Julie Nelson,Ophthalmology,(703) 555-7458,julie.nelson@hospital.com,Virginia Hospital Center,Virginia,abcd
+Timothy Lee,Radiology,(240) 555-6464,timothy.lee@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Emma Baker,Consult - History and Phy.,(240) 555-3179,emma.baker@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Thomas Hall,Cardiovascular / Pulmonary,(301) 555-0645,thomas.hall@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Mary Baker,Consult - History and Phy.,(703) 555-9172,mary.baker@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Christine Martin,Surgery,(240) 555-5281,christine.martin@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Gregory Campbell,Orthopedic,(301) 555-6777,gregory.campbell@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Matthew Green,Surgery,(703) 555-6952,matthew.green@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Nancy Evans,Consult - History and Phy.,(240) 555-4009,nancy.evans@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Kenneth Nelson,Orthopedic,(301) 555-6978,kenneth.nelson@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Emma Moore,Consult - History and Phy.,(301) 555-2660,emma.moore@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Diane Carter,Surgery,(703) 555-4206,diane.carter@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+James Perez,Surgery,(240) 555-8739,james.perez@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Susan Lewis,Consult - History and Phy.,(202) 555-9611,susan.lewis@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Cynthia Green,General Medicine,(301) 555-9255,cynthia.green@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Gregory Williams,General Medicine,(571) 555-2492,gregory.williams@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Gregory Young,Surgery,(571) 555-8932,gregory.young@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Edward Moore,Hematology - Oncology,(301) 555-5767,edward.moore@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Matthew Rodriguez,ENT - Otolaryngology,(703) 555-1762,matthew.rodriguez@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Andrew Garcia,Cardiovascular / Pulmonary,(301) 555-1773,andrew.garcia@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Nancy Walker,Neurology,(571) 555-4551,nancy.walker@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Gregory Brown,Orthopedic,(571) 555-8792,gregory.brown@hospital.com,Virginia Hospital Center,Virginia,abcd
+Deborah Johnson,General Medicine,(301) 555-5662,deborah.johnson@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Nancy Phillips,Hematology - Oncology,(301) 555-6791,nancy.phillips@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Kenneth Baker,Surgery,(703) 555-8285,kenneth.baker@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+James Baker,Radiology,(571) 555-6571,james.baker@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Edward Phillips,Gastroenterology,(240) 555-3542,edward.phillips@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Carol Mitchell,Surgery,(202) 555-2362,carol.mitchell@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Julie Phillips,Radiology,(703) 555-8713,julie.phillips@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Lisa Jones,SOAP / Chart / Progress Notes,(571) 555-0885,lisa.jones@hospital.com,Howard University Hospital,Washington D.C.,abcd
+David Lopez,Surgery,(301) 555-1841,david.lopez@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Kevin Miller,Cardiovascular / Pulmonary,(301) 555-1768,kevin.miller@hospital.com,Virginia Hospital Center,Virginia,abcd
+Paul Adams,Orthopedic,(571) 555-4206,paul.adams@hospital.com,Virginia Hospital Center,Virginia,abcd
+Lisa Williams,Gastroenterology,(301) 555-3315,lisa.williams@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Mark Hall,Neurology,(571) 555-6054,mark.hall@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Rachel Lewis,Discharge Summary,(703) 555-0931,rachel.lewis@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Christopher Hernandez,Cardiovascular / Pulmonary,(301) 555-9381,christopher.hernandez@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Helen White,General Medicine,(240) 555-9114,helen.white@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Steven Moore,Neurology,(202) 555-4622,steven.moore@hospital.com,Virginia Hospital Center,Virginia,abcd
+Joshua Lopez,Orthopedic,(240) 555-3984,joshua.lopez@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Jessica Gonzalez,Surgery,(703) 555-7101,jessica.gonzalez@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Janet Mitchell,Orthopedic,(301) 555-2904,janet.mitchell@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Robert Martin,Cardiovascular / Pulmonary,(240) 555-6455,robert.martin@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Maria Martinez,Surgery,(703) 555-5131,maria.martinez@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Betty Mitchell,Radiology,(301) 555-6568,betty.mitchell@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Julie Moore,Cardiovascular / Pulmonary,(301) 555-3646,julie.moore@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Mary Nelson,Cardiovascular / Pulmonary,(202) 555-6777,mary.nelson@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Joshua Garcia,Radiology,(301) 555-2076,joshua.garcia@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Deborah Phillips,Consult - History and Phy.,(301) 555-0693,deborah.phillips@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Gregory Baker,Ophthalmology,(571) 555-7625,gregory.baker@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Deborah Mitchell,Consult - History and Phy.,(240) 555-7789,deborah.mitchell@hospital.com,Virginia Hospital Center,Virginia,abcd
+Robert Martinez,Orthopedic,(571) 555-5135,robert.martinez@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Lisa Brown,Neurosurgery,(240) 555-0386,lisa.brown@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Edward White,Consult - History and Phy.,(703) 555-5023,edward.white@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Linda Jones,Consult - History and Phy.,(240) 555-6558,linda.jones@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Michael Wright,Consult - History and Phy.,(571) 555-4653,michael.wright@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Steven Adams,Lab Medicine - Pathology,(571) 555-4390,steven.adams@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Cynthia Lopez,Orthopedic,(301) 555-0584,cynthia.lopez@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Kevin Baker,Cardiovascular / Pulmonary,(571) 555-7093,kevin.baker@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Linda Smith,Surgery,(301) 555-6169,linda.smith@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Timothy Perez,SOAP / Chart / Progress Notes,(301) 555-3132,timothy.perez@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Christopher Ramirez,Radiology,(202) 555-9563,christopher.ramirez@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+John Allen,SOAP / Chart / Progress Notes,(240) 555-2669,john.allen@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Michael Baker,Consult - History and Phy.,(240) 555-0748,michael.baker@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+John Jones,Neurology,(571) 555-5945,john.jones@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Cynthia Moore,General Medicine,(703) 555-4073,cynthia.moore@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Susan Rodriguez,Gastroenterology,(703) 555-4525,susan.rodriguez@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Anthony Williams,Orthopedic,(301) 555-2369,anthony.williams@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Cynthia Rodriguez,SOAP / Chart / Progress Notes,(240) 555-8096,cynthia.rodriguez@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Gregory Moore,Surgery,(703) 555-6662,gregory.moore@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Maria Adams,Consult - History and Phy.,(301) 555-0068,maria.adams@hospital.com,Virginia Hospital Center,Virginia,abcd
+Betty Jones,General Medicine,(703) 555-7537,betty.jones@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Cynthia Evans,Neurology,(240) 555-7815,cynthia.evans@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Matthew Rodriguez,Surgery,(571) 555-9554,matthew.rodriguez@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Robert Martin,Orthopedic,(202) 555-6256,robert.martin@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+George Gonzalez,Ophthalmology,(202) 555-2041,george.gonzalez@hospital.com,Virginia Hospital Center,Virginia,abcd
+Julie King,Gastroenterology,(703) 555-8593,julie.king@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Sarah Evans,Cardiovascular / Pulmonary,(240) 555-9080,sarah.evans@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Cynthia Robinson,Orthopedic,(703) 555-9060,cynthia.robinson@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Mary Wright,Neurosurgery,(240) 555-3537,mary.wright@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Paul Rodriguez,Surgery,(703) 555-1566,paul.rodriguez@hospital.com,Howard University Hospital,Washington D.C.,abcd
+James Phillips,Ophthalmology,(703) 555-7190,james.phillips@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Karen Robinson,Consult - History and Phy.,(571) 555-7970,karen.robinson@hospital.com,Children's National Hospital,Washington D.C.,abcd
+John Martinez,Surgery,(703) 555-3272,john.martinez@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Mark Wilson,Radiology,(301) 555-7463,mark.wilson@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Linda Robinson,Gastroenterology,(301) 555-8366,linda.robinson@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Sarah Johnson,Cardiovascular / Pulmonary,(571) 555-2403,sarah.johnson@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Steven Evans,Radiology,(240) 555-1727,steven.evans@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+John Carter,Surgery,(571) 555-9211,john.carter@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Deborah Carter,Cardiovascular / Pulmonary,(703) 555-7353,deborah.carter@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Nancy Walker,Hematology - Oncology,(703) 555-5442,nancy.walker@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Maria Young,General Medicine,(240) 555-7543,maria.young@hospital.com,Virginia Hospital Center,Virginia,abcd
+Paul Evans,Cardiovascular / Pulmonary,(240) 555-0713,paul.evans@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Sandra Jones,Dentistry,(301) 555-4662,sandra.jones@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Robert Clark,Cardiovascular / Pulmonary,(571) 555-8409,robert.clark@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Steven Johnson,Consult - History and Phy.,(571) 555-6714,steven.johnson@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Gregory Lopez,Radiology,(703) 555-6529,gregory.lopez@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Betty Garcia,Cardiovascular / Pulmonary,(703) 555-5419,betty.garcia@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Timothy King,Orthopedic,(571) 555-2360,timothy.king@hospital.com,Virginia Hospital Center,Virginia,abcd
+Paul King,Radiology,(301) 555-9777,paul.king@hospital.com,Virginia Hospital Center,Virginia,abcd
+Cynthia Sanchez,Orthopedic,(571) 555-3412,cynthia.sanchez@hospital.com,Virginia Hospital Center,Virginia,abcd
+Christine Gonzalez,Neurology,(703) 555-6439,christine.gonzalez@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Barbara Allen,Radiology,(240) 555-6851,barbara.allen@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Maria Taylor,Radiology,(240) 555-6180,maria.taylor@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Christopher Walker,Surgery,(703) 555-0825,christopher.walker@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Mark White,Nephrology,(571) 555-2081,mark.white@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Brian Roberts,Orthopedic,(202) 555-3995,brian.roberts@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Mark Campbell,Gastroenterology,(301) 555-2017,mark.campbell@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Sarah Harris,Surgery,(301) 555-9395,sarah.harris@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Daniel Ramirez,Neurosurgery,(301) 555-3746,daniel.ramirez@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Daniel Lopez,Sleep Medicine,(571) 555-3313,daniel.lopez@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Daniel Rodriguez,Surgery,(301) 555-8372,daniel.rodriguez@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Christine Wilson,Surgery,(301) 555-8493,christine.wilson@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Ruth Rodriguez,Surgery,(301) 555-8941,ruth.rodriguez@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Susan Walker,Dermatology,(703) 555-7912,susan.walker@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Linda Jones,Neurology,(240) 555-4362,linda.jones@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Edward Anderson,Surgery,(240) 555-7537,edward.anderson@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Andrew King,Gastroenterology,(301) 555-5260,andrew.king@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Christopher Davis,Surgery,(202) 555-2326,christopher.davis@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Helen Lopez,Surgery,(301) 555-2608,helen.lopez@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Diane Garcia,Orthopedic,(240) 555-8477,diane.garcia@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Andrew Martin,Office Notes,(240) 555-6558,andrew.martin@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+John Roberts,Surgery,(571) 555-0043,john.roberts@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Helen Lopez,Surgery,(202) 555-7319,helen.lopez@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Susan Williams,Gastroenterology,(301) 555-7997,susan.williams@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Thomas Phillips,Neurology,(703) 555-1241,thomas.phillips@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Paul Miller,Hematology - Oncology,(240) 555-4424,paul.miller@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Mary Lewis,Consult - History and Phy.,(571) 555-0498,mary.lewis@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Jennifer Clark,General Medicine,(301) 555-5609,jennifer.clark@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Joshua Miller,Hematology - Oncology,(301) 555-6193,joshua.miller@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Barbara Hernandez,General Medicine,(301) 555-3205,barbara.hernandez@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Steven Sanchez,Consult - History and Phy.,(301) 555-4462,steven.sanchez@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Brian Adams,Orthopedic,(301) 555-7609,brian.adams@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+George Phillips,Hematology - Oncology,(703) 555-6880,george.phillips@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+George Torres,Surgery,(240) 555-6014,george.torres@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Cynthia Torres,Surgery,(202) 555-1287,cynthia.torres@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+John Turner,Surgery,(240) 555-7210,john.turner@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Sandra Walker,Orthopedic,(240) 555-2280,sandra.walker@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Donald Garcia,Radiology,(301) 555-1271,donald.garcia@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Paul Baker,Consult - History and Phy.,(301) 555-1615,paul.baker@hospital.com,Virginia Hospital Center,Virginia,abcd
+Joshua Rodriguez,ENT - Otolaryngology,(301) 555-1741,joshua.rodriguez@hospital.com,Virginia Hospital Center,Virginia,abcd
+James Allen,Cardiovascular / Pulmonary,(202) 555-3835,james.allen@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Karen Jones,Cardiovascular / Pulmonary,(301) 555-5429,karen.jones@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Paul Harris,Surgery,(301) 555-9966,paul.harris@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Christine Garcia,Surgery,(703) 555-6184,christine.garcia@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Andrew Williams,Orthopedic,(571) 555-9754,andrew.williams@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Mary Jackson,Pain Management,(571) 555-3500,mary.jackson@hospital.com,Virginia Hospital Center,Virginia,abcd
+Michael Martin,Orthopedic,(202) 555-7713,michael.martin@hospital.com,Virginia Hospital Center,Virginia,abcd
+Maria Williams,Neurosurgery,(571) 555-9251,maria.williams@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Rachel Thomas,Neurology,(301) 555-3163,rachel.thomas@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Mary Young,Surgery,(240) 555-1703,mary.young@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Jessica Smith,Surgery,(240) 555-0045,jessica.smith@hospital.com,Children's National Hospital,Washington D.C.,abcd
+James Baker,Consult - History and Phy.,(240) 555-4611,james.baker@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Janet Perez,General Medicine,(703) 555-7014,janet.perez@hospital.com,Virginia Hospital Center,Virginia,abcd
+Mark Turner,Hematology - Oncology,(202) 555-1772,mark.turner@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Paul Wright,Surgery,(240) 555-9847,paul.wright@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Sarah Garcia,Gastroenterology,(301) 555-6349,sarah.garcia@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Mary Roberts,Orthopedic,(571) 555-6721,mary.roberts@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Julie Young,Neurology,(301) 555-7577,julie.young@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Brian Wilson,Cardiovascular / Pulmonary,(301) 555-2217,brian.wilson@hospital.com,Children's National Hospital,Washington D.C.,abcd
+George Walker,Pain Management,(240) 555-5356,george.walker@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Mark Taylor,Hematology - Oncology,(703) 555-8904,mark.taylor@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Matthew Anderson,General Medicine,(703) 555-9626,matthew.anderson@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Sharon Wright,Consult - History and Phy.,(301) 555-3019,sharon.wright@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Anthony Ramirez,Podiatry,(301) 555-7420,anthony.ramirez@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Janet Martinez,Consult - History and Phy.,(240) 555-2692,janet.martinez@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+David Jones,Orthopedic,(571) 555-5403,david.jones@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Diane Phillips,Surgery,(301) 555-9270,diane.phillips@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Jessica Ramirez,Consult - History and Phy.,(202) 555-2788,jessica.ramirez@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Rachel Wilson,Podiatry,(301) 555-7889,rachel.wilson@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Emma Taylor,Surgery,(240) 555-1691,emma.taylor@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Jennifer Robinson,Surgery,(703) 555-1016,jennifer.robinson@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Lisa Moore,Gastroenterology,(571) 555-7023,lisa.moore@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Carol Lewis,Neurology,(301) 555-7394,carol.lewis@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Donald Campbell,Letters,(571) 555-8553,donald.campbell@hospital.com,Virginia Hospital Center,Virginia,abcd
+Janet Lewis,Consult - History and Phy.,(571) 555-5027,janet.lewis@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Betty Hall,Consult - History and Phy.,(240) 555-5215,betty.hall@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Helen Williams,General Medicine,(301) 555-4737,helen.williams@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Brian Lopez,Radiology,(240) 555-2953,brian.lopez@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Andrew Gonzalez,Surgery,(301) 555-5737,andrew.gonzalez@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Julie Jackson,General Medicine,(202) 555-7551,julie.jackson@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Christine Jones,Surgery,(301) 555-6783,christine.jones@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Susan Jones,Consult - History and Phy.,(240) 555-8767,susan.jones@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Karen Sanchez,Surgery,(301) 555-9728,karen.sanchez@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Janet Wilson,Radiology,(240) 555-7769,janet.wilson@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Betty Evans,Surgery,(571) 555-2491,betty.evans@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Rachel Anderson,Surgery,(571) 555-4947,rachel.anderson@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Matthew Wright,Cardiovascular / Pulmonary,(703) 555-6043,matthew.wright@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+James Sanchez,Consult - History and Phy.,(240) 555-3710,james.sanchez@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+George Anderson,Surgery,(240) 555-8475,george.anderson@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Sandra Robinson,Dermatology,(571) 555-6061,sandra.robinson@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Maria Perez,Discharge Summary,(571) 555-3648,maria.perez@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Linda Roberts,Consult - History and Phy.,(703) 555-2576,linda.roberts@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Andrew Sanchez,Orthopedic,(571) 555-7720,andrew.sanchez@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Mary Martin,Surgery,(240) 555-3055,mary.martin@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Christopher Hernandez,Podiatry,(240) 555-5552,christopher.hernandez@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Sarah Moore,Gastroenterology,(240) 555-6257,sarah.moore@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Helen Thompson,Neurosurgery,(703) 555-3318,helen.thompson@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Susan Hernandez,Radiology,(703) 555-3735,susan.hernandez@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Diane Martin,Nephrology,(571) 555-1213,diane.martin@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Julie Wilson,Surgery,(703) 555-7896,julie.wilson@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Charles Lopez,General Medicine,(301) 555-5322,charles.lopez@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Emma Davis,Surgery,(301) 555-8849,emma.davis@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Donald Miller,Podiatry,(301) 555-1208,donald.miller@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Robert Lee,Ophthalmology,(703) 555-9970,robert.lee@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Ruth Turner,Cardiovascular / Pulmonary,(202) 555-0990,ruth.turner@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Edward White,Surgery,(240) 555-1856,edward.white@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Thomas Hill,Office Notes,(703) 555-5906,thomas.hill@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Kenneth Harris,Cardiovascular / Pulmonary,(571) 555-5781,kenneth.harris@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+George Nelson,Surgery,(301) 555-3673,george.nelson@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Timothy Campbell,Orthopedic,(301) 555-7080,timothy.campbell@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+John Harris,Discharge Summary,(571) 555-2511,john.harris@hospital.com,Virginia Hospital Center,Virginia,abcd
+Carol Rodriguez,Pain Management,(301) 555-2162,carol.rodriguez@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Thomas Lopez,Nephrology,(571) 555-3209,thomas.lopez@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Christine Gonzalez,Surgery,(703) 555-6327,christine.gonzalez@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Kenneth Hill,Dermatology,(202) 555-2845,kenneth.hill@hospital.com,Virginia Hospital Center,Virginia,abcd
+Lisa Hill,SOAP / Chart / Progress Notes,(240) 555-5970,lisa.hill@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Emma Jackson,Surgery,(240) 555-2407,emma.jackson@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Rachel Smith,Surgery,(240) 555-9652,rachel.smith@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Susan Perez,Cardiovascular / Pulmonary,(703) 555-6941,susan.perez@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Ruth Williams,Radiology,(703) 555-5186,ruth.williams@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+John Taylor,Neurology,(571) 555-3604,john.taylor@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Nancy Wright,Cardiovascular / Pulmonary,(202) 555-2061,nancy.wright@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Betty Thompson,Dentistry,(240) 555-3199,betty.thompson@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Joshua Thomas,Surgery,(301) 555-6743,joshua.thomas@hospital.com,Virginia Hospital Center,Virginia,abcd
+Janet Perez,Neurology,(240) 555-6826,janet.perez@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Donald Baker,Orthopedic,(240) 555-2413,donald.baker@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Kevin Campbell,SOAP / Chart / Progress Notes,(571) 555-8611,kevin.campbell@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Betty Adams,Ophthalmology,(301) 555-9505,betty.adams@hospital.com,Virginia Hospital Center,Virginia,abcd
+Edward Brown,Neurology,(301) 555-4265,edward.brown@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Christine Evans,General Medicine,(571) 555-5316,christine.evans@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Christopher Evans,Surgery,(571) 555-7661,christopher.evans@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Maria Baker,Surgery,(571) 555-9366,maria.baker@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Mary Campbell,Consult - History and Phy.,(240) 555-0538,mary.campbell@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Susan Martin,SOAP / Chart / Progress Notes,(703) 555-7116,susan.martin@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Janet Nelson,Consult - History and Phy.,(571) 555-4972,janet.nelson@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Daniel King,Radiology,(301) 555-0974,daniel.king@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Lisa Williams,Surgery,(703) 555-7738,lisa.williams@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Gregory Ramirez,Orthopedic,(703) 555-4164,gregory.ramirez@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Donald Scott,Consult - History and Phy.,(571) 555-3504,donald.scott@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Helen Baker,Surgery,(571) 555-9010,helen.baker@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Joshua Baker,Psychiatry / Psychology,(301) 555-5014,joshua.baker@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Donald Lee,General Medicine,(703) 555-0912,donald.lee@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Emma Perez,Consult - History and Phy.,(202) 555-6139,emma.perez@hospital.com,Virginia Hospital Center,Virginia,abcd
+Deborah Moore,Gastroenterology,(301) 555-3112,deborah.moore@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Ruth Adams,Surgery,(703) 555-6577,ruth.adams@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Betty Turner,Gastroenterology,(301) 555-9946,betty.turner@hospital.com,Virginia Hospital Center,Virginia,abcd
+Jessica Martin,Surgery,(301) 555-2416,jessica.martin@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Christopher Moore,SOAP / Chart / Progress Notes,(301) 555-7231,christopher.moore@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Mark Walker,Consult - History and Phy.,(240) 555-3036,mark.walker@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Daniel Allen,Surgery,(301) 555-8497,daniel.allen@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Ruth Ramirez,Surgery,(571) 555-2762,ruth.ramirez@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Lisa Thompson,General Medicine,(301) 555-2811,lisa.thompson@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Joshua Hill,Hematology - Oncology,(571) 555-7418,joshua.hill@hospital.com,Virginia Hospital Center,Virginia,abcd
+Andrew Green,Radiology,(202) 555-4923,andrew.green@hospital.com,Virginia Hospital Center,Virginia,abcd
+Diane Phillips,Cardiovascular / Pulmonary,(703) 555-3069,diane.phillips@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Julie Martinez,Pain Management,(301) 555-3924,julie.martinez@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Kevin Jones,Neurology,(571) 555-7963,kevin.jones@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Ruth Sanchez,Consult - History and Phy.,(301) 555-3690,ruth.sanchez@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Kenneth Perez,Consult - History and Phy.,(202) 555-2633,kenneth.perez@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Kevin Perez,Surgery,(571) 555-3628,kevin.perez@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Kevin King,Gastroenterology,(301) 555-0198,kevin.king@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Mary Gonzalez,Surgery,(240) 555-9434,mary.gonzalez@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+John Lopez,Neurosurgery,(240) 555-1794,john.lopez@hospital.com,Virginia Hospital Center,Virginia,abcd
+Charles Miller,Gastroenterology,(703) 555-4370,charles.miller@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Linda Moore,Letters,(571) 555-4870,linda.moore@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Gregory Hall,ENT - Otolaryngology,(301) 555-4052,gregory.hall@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Emma Taylor,Surgery,(202) 555-5812,emma.taylor@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Charles Jackson,Surgery,(240) 555-9336,charles.jackson@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Matthew Evans,General Medicine,(571) 555-5821,matthew.evans@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Kevin Williams,Surgery,(240) 555-1953,kevin.williams@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Patricia Jones,Neurology,(571) 555-2348,patricia.jones@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Brian Robinson,Consult - History and Phy.,(240) 555-1604,brian.robinson@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Daniel Moore,Surgery,(301) 555-4942,daniel.moore@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Thomas Taylor,Allergy / Immunology,(240) 555-4592,thomas.taylor@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Julie Lewis,General Medicine,(301) 555-2232,julie.lewis@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Rachel Hill,Orthopedic,(703) 555-3078,rachel.hill@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Donald Johnson,Office Notes,(703) 555-6725,donald.johnson@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Sandra Jackson,Podiatry,(301) 555-7861,sandra.jackson@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Paul Gonzalez,Cardiovascular / Pulmonary,(571) 555-1848,paul.gonzalez@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+James Anderson,Surgery,(301) 555-7372,james.anderson@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Jessica Carter,Surgery,(703) 555-8690,jessica.carter@hospital.com,Howard University Hospital,Washington D.C.,abcd
+George Robinson,SOAP / Chart / Progress Notes,(571) 555-5240,george.robinson@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Donald Scott,Hematology - Oncology,(703) 555-8645,donald.scott@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Paul Torres,Dentistry,(202) 555-0270,paul.torres@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Jennifer Thompson,SOAP / Chart / Progress Notes,(240) 555-0549,jennifer.thompson@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Mark Perez,Neurology,(571) 555-9334,mark.perez@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Matthew Brown,Surgery,(301) 555-9461,matthew.brown@hospital.com,Howard University Hospital,Washington D.C.,abcd
+James Young,Hematology - Oncology,(301) 555-6525,james.young@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Rachel Martinez,Pain Management,(571) 555-1822,rachel.martinez@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Patricia Evans,Surgery,(703) 555-1260,patricia.evans@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Linda Scott,Surgery,(202) 555-1021,linda.scott@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Joshua Lee,Surgery,(571) 555-4183,joshua.lee@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Michael Garcia,Neurosurgery,(571) 555-0572,michael.garcia@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Rachel Nelson,SOAP / Chart / Progress Notes,(703) 555-9716,rachel.nelson@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Robert Phillips,Neurosurgery,(703) 555-1335,robert.phillips@hospital.com,Virginia Hospital Center,Virginia,abcd
+Joshua Taylor,Hematology - Oncology,(703) 555-6540,joshua.taylor@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Karen Hill,Surgery,(202) 555-2533,karen.hill@hospital.com,Virginia Hospital Center,Virginia,abcd
+Ruth Martinez,Hematology - Oncology,(703) 555-3842,ruth.martinez@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Steven Moore,Surgery,(240) 555-4580,steven.moore@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Steven Taylor,Neurology,(571) 555-1362,steven.taylor@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Lisa Miller,Hematology - Oncology,(301) 555-3305,lisa.miller@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Edward Taylor,Surgery,(571) 555-5098,edward.taylor@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Carol Smith,Cardiovascular / Pulmonary,(703) 555-0984,carol.smith@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Christopher Campbell,Neurosurgery,(240) 555-4803,christopher.campbell@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Andrew King,Neurosurgery,(240) 555-5271,andrew.king@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Emma Davis,Orthopedic,(571) 555-5358,emma.davis@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+John Smith,Cardiovascular / Pulmonary,(240) 555-6293,john.smith@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Gregory Wilson,Neurosurgery,(571) 555-7828,gregory.wilson@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Michael Harris,Radiology,(301) 555-6136,michael.harris@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Karen Miller,Neurology,(240) 555-2089,karen.miller@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Gregory Baker,Surgery,(571) 555-1002,gregory.baker@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Kevin Taylor,SOAP / Chart / Progress Notes,(571) 555-8236,kevin.taylor@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Christopher Davis,Radiology,(301) 555-8342,christopher.davis@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+David Lewis,Orthopedic,(571) 555-9944,david.lewis@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Charles Sanchez,Surgery,(703) 555-3215,charles.sanchez@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Karen Baker,Orthopedic,(703) 555-9175,karen.baker@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Jessica Wilson,Surgery,(703) 555-1692,jessica.wilson@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Maria Campbell,Gastroenterology,(571) 555-9266,maria.campbell@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Emma Gonzalez,Surgery,(301) 555-3438,emma.gonzalez@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Karen Clark,Neurosurgery,(240) 555-7964,karen.clark@hospital.com,Virginia Hospital Center,Virginia,abcd
+Julie Jones,Dentistry,(240) 555-6987,julie.jones@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+David Johnson,SOAP / Chart / Progress Notes,(301) 555-9276,david.johnson@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Karen Mitchell,General Medicine,(240) 555-7532,karen.mitchell@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Barbara Anderson,Discharge Summary,(240) 555-2674,barbara.anderson@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+John Young,Surgery,(703) 555-2155,john.young@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Steven Turner,Surgery,(240) 555-7958,steven.turner@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Julie Lewis,Neurosurgery,(703) 555-9480,julie.lewis@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Mary Anderson,Cardiovascular / Pulmonary,(301) 555-2705,mary.anderson@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Julie Mitchell,Discharge Summary,(301) 555-5291,julie.mitchell@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Brian Adams,General Medicine,(240) 555-3359,brian.adams@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+George Thomas,Surgery,(703) 555-5152,george.thomas@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Sarah Taylor,Surgery,(703) 555-7724,sarah.taylor@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Sandra Turner,Surgery,(202) 555-0925,sandra.turner@hospital.com,Virginia Hospital Center,Virginia,abcd
+Kevin Ramirez,Surgery,(240) 555-2558,kevin.ramirez@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Donald Ramirez,ENT - Otolaryngology,(240) 555-9392,donald.ramirez@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Robert Hernandez,Surgery,(202) 555-2806,robert.hernandez@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Mark Jackson,Discharge Summary,(240) 555-5878,mark.jackson@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Michael Evans,Gastroenterology,(240) 555-1368,michael.evans@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Edward Campbell,Cardiovascular / Pulmonary,(240) 555-0399,edward.campbell@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Diane Jones,Orthopedic,(301) 555-8527,diane.jones@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Anthony Phillips,General Medicine,(240) 555-1294,anthony.phillips@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Donald Evans,Consult - History and Phy.,(240) 555-6727,donald.evans@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Sarah Rodriguez,Surgery,(240) 555-1644,sarah.rodriguez@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Patricia Lewis,Discharge Summary,(301) 555-1728,patricia.lewis@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Christine Martinez,Hematology - Oncology,(240) 555-1215,christine.martinez@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+David Clark,Surgery,(703) 555-4232,david.clark@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Mark Williams,Neurosurgery,(240) 555-4838,mark.williams@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+David Allen,General Medicine,(240) 555-6034,david.allen@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Daniel Davis,Consult - History and Phy.,(571) 555-7175,daniel.davis@hospital.com,Virginia Hospital Center,Virginia,abcd
+Edward Jones,Surgery,(240) 555-9176,edward.jones@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Daniel Thomas,Orthopedic,(301) 555-2117,daniel.thomas@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Patricia Torres,Neurology,(571) 555-9777,patricia.torres@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Timothy Roberts,Psychiatry / Psychology,(301) 555-2681,timothy.roberts@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Steven Rodriguez,Cardiovascular / Pulmonary,(240) 555-4405,steven.rodriguez@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+David King,Radiology,(703) 555-4750,david.king@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+David Clark,Gastroenterology,(571) 555-1539,david.clark@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+John Hall,Cardiovascular / Pulmonary,(703) 555-7523,john.hall@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Carol Robinson,General Medicine,(571) 555-6000,carol.robinson@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Daniel King,Consult - History and Phy.,(301) 555-4585,daniel.king@hospital.com,Virginia Hospital Center,Virginia,abcd
+Gregory Clark,Surgery,(301) 555-4711,gregory.clark@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Matthew Walker,Cardiovascular / Pulmonary,(301) 555-8220,matthew.walker@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Janet Mitchell,Cardiovascular / Pulmonary,(703) 555-1951,janet.mitchell@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+James Roberts,Consult - History and Phy.,(571) 555-6718,james.roberts@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Michael Evans,Surgery,(202) 555-0998,michael.evans@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Nancy Miller,General Medicine,(703) 555-1592,nancy.miller@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Timothy Wilson,Consult - History and Phy.,(571) 555-5763,timothy.wilson@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Anthony Wilson,Neurology,(703) 555-8316,anthony.wilson@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Paul Moore,Ophthalmology,(240) 555-3090,paul.moore@hospital.com,Virginia Hospital Center,Virginia,abcd
+David Nelson,Radiology,(240) 555-2667,david.nelson@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Betty Clark,Surgery,(301) 555-3305,betty.clark@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Brian Davis,Cardiovascular / Pulmonary,(202) 555-8826,brian.davis@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Patricia Harris,Consult - History and Phy.,(571) 555-0223,patricia.harris@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Matthew Evans,ENT - Otolaryngology,(240) 555-4553,matthew.evans@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Donald Sanchez,Radiology,(703) 555-7083,donald.sanchez@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Andrew Adams,Orthopedic,(703) 555-4165,andrew.adams@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Emma Smith,Surgery,(703) 555-9031,emma.smith@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Betty Baker,Surgery,(301) 555-9564,betty.baker@hospital.com,Virginia Hospital Center,Virginia,abcd
+Daniel Williams,Cardiovascular / Pulmonary,(240) 555-0877,daniel.williams@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Carol Harris,Radiology,(703) 555-4874,carol.harris@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Nancy Roberts,Nephrology,(202) 555-2657,nancy.roberts@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Daniel Jones,Surgery,(703) 555-9689,daniel.jones@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Gregory Lee,Consult - History and Phy.,(301) 555-5271,gregory.lee@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Barbara Smith,Office Notes,(571) 555-7605,barbara.smith@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Kevin Rodriguez,Radiology,(240) 555-7778,kevin.rodriguez@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Sandra Smith,Radiology,(240) 555-8416,sandra.smith@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Janet Anderson,Lab Medicine - Pathology,(571) 555-3896,janet.anderson@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Daniel Garcia,Nephrology,(240) 555-3641,daniel.garcia@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Julie Mitchell,Gastroenterology,(301) 555-9971,julie.mitchell@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Robert Lewis,Surgery,(571) 555-1897,robert.lewis@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Diane Smith,Gastroenterology,(301) 555-3099,diane.smith@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Ruth Adams,General Medicine,(571) 555-3657,ruth.adams@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Daniel Gonzalez,Nephrology,(703) 555-3607,daniel.gonzalez@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Nancy Thomas,Radiology,(703) 555-1188,nancy.thomas@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Anthony Walker,Discharge Summary,(301) 555-7702,anthony.walker@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Janet Roberts,Consult - History and Phy.,(240) 555-1769,janet.roberts@hospital.com,University of Maryland Medical Center,Maryland,abcd
+George Wright,Surgery,(240) 555-0420,george.wright@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Mary White,Surgery,(240) 555-2309,mary.white@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Christine Hall,Surgery,(240) 555-1745,christine.hall@hospital.com,Virginia Hospital Center,Virginia,abcd
+Betty Clark,Letters,(301) 555-1154,betty.clark@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+James Roberts,Orthopedic,(202) 555-2893,james.roberts@hospital.com,Virginia Hospital Center,Virginia,abcd
+Thomas Miller,Orthopedic,(202) 555-6745,thomas.miller@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Donald Williams,Gastroenterology,(240) 555-7547,donald.williams@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Daniel Green,Consult - History and Phy.,(571) 555-6377,daniel.green@hospital.com,Howard University Hospital,Washington D.C.,abcd
+James Taylor,Radiology,(202) 555-1695,james.taylor@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Donald Johnson,Cardiovascular / Pulmonary,(202) 555-8661,donald.johnson@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+David Jones,ENT - Otolaryngology,(240) 555-1517,david.jones@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Kevin Miller,Surgery,(703) 555-9751,kevin.miller@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Edward Miller,Cardiovascular / Pulmonary,(571) 555-9520,edward.miller@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Cynthia Mitchell,Cardiovascular / Pulmonary,(571) 555-6432,cynthia.mitchell@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Barbara Gonzalez,Podiatry,(703) 555-9964,barbara.gonzalez@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Linda Jones,Surgery,(301) 555-4897,linda.jones@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Diane Moore,Ophthalmology,(571) 555-1689,diane.moore@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Christine Mitchell,Surgery,(571) 555-4758,christine.mitchell@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Gregory Hall,Orthopedic,(703) 555-3755,gregory.hall@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Paul Gonzalez,Consult - History and Phy.,(703) 555-9310,paul.gonzalez@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Rachel Mitchell,Orthopedic,(202) 555-6855,rachel.mitchell@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Mary Moore,Radiology,(703) 555-3736,mary.moore@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Matthew Johnson,Sleep Medicine,(703) 555-8144,matthew.johnson@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Sarah Rodriguez,Orthopedic,(571) 555-3115,sarah.rodriguez@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Robert Jackson,Radiology,(703) 555-2258,robert.jackson@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Donald Turner,Consult - History and Phy.,(703) 555-2724,donald.turner@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Gregory King,Surgery,(301) 555-0491,gregory.king@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Donald Williams,Letters,(301) 555-9177,donald.williams@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Anthony Hernandez,Gastroenterology,(703) 555-4065,anthony.hernandez@hospital.com,Virginia Hospital Center,Virginia,abcd
+Michael Young,Cardiovascular / Pulmonary,(240) 555-0180,michael.young@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Linda Phillips,SOAP / Chart / Progress Notes,(301) 555-9197,linda.phillips@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Timothy Carter,Orthopedic,(301) 555-7387,timothy.carter@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Carol Jones,Gastroenterology,(571) 555-9653,carol.jones@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Kevin Wright,Gastroenterology,(571) 555-8936,kevin.wright@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Carol Martin,Orthopedic,(301) 555-0698,carol.martin@hospital.com,Virginia Hospital Center,Virginia,abcd
+Sharon Hill,Surgery,(240) 555-6293,sharon.hill@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Nancy Garcia,Pain Management,(703) 555-0347,nancy.garcia@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Timothy King,General Medicine,(703) 555-7230,timothy.king@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Paul Gonzalez,Consult - History and Phy.,(240) 555-9433,paul.gonzalez@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Maria King,SOAP / Chart / Progress Notes,(240) 555-3493,maria.king@hospital.com,Virginia Hospital Center,Virginia,abcd
+Thomas Jones,Orthopedic,(240) 555-9258,thomas.jones@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Ruth Roberts,Surgery,(301) 555-5477,ruth.roberts@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Janet Thomas,Surgery,(202) 555-5836,janet.thomas@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Donald Martinez,SOAP / Chart / Progress Notes,(240) 555-5342,donald.martinez@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Rachel Moore,Consult - History and Phy.,(301) 555-5997,rachel.moore@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Kevin Jackson,Gastroenterology,(703) 555-6609,kevin.jackson@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Andrew Martinez,Cardiovascular / Pulmonary,(301) 555-5672,andrew.martinez@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Christopher Evans,Surgery,(571) 555-1170,christopher.evans@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Daniel Miller,Neurology,(240) 555-9054,daniel.miller@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+David Walker,Orthopedic,(571) 555-4628,david.walker@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Betty Davis,Neurology,(301) 555-9632,betty.davis@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Janet Carter,General Medicine,(571) 555-3628,janet.carter@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Lisa Robinson,Surgery,(301) 555-5096,lisa.robinson@hospital.com,Virginia Hospital Center,Virginia,abcd
+Thomas Martinez,Cardiovascular / Pulmonary,(703) 555-7079,thomas.martinez@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Sandra Smith,Discharge Summary,(301) 555-9773,sandra.smith@hospital.com,Virginia Hospital Center,Virginia,abcd
+Nancy Scott,General Medicine,(240) 555-1569,nancy.scott@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Barbara Wilson,Surgery,(703) 555-3421,barbara.wilson@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Karen Garcia,Surgery,(571) 555-9077,karen.garcia@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Kenneth Jackson,Cardiovascular / Pulmonary,(703) 555-7702,kenneth.jackson@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Susan Mitchell,Radiology,(571) 555-9358,susan.mitchell@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Gregory Williams,Neurology,(240) 555-0766,gregory.williams@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Rachel Clark,General Medicine,(301) 555-9806,rachel.clark@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Patricia Robinson,Cardiovascular / Pulmonary,(571) 555-7872,patricia.robinson@hospital.com,Virginia Hospital Center,Virginia,abcd
+Matthew Allen,Consult - History and Phy.,(301) 555-3581,matthew.allen@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Andrew Evans,ENT - Otolaryngology,(301) 555-7281,andrew.evans@hospital.com,Virginia Hospital Center,Virginia,abcd
+John Allen,Cardiovascular / Pulmonary,(571) 555-9729,john.allen@hospital.com,Children's National Hospital,Washington D.C.,abcd
+David Torres,General Medicine,(240) 555-7049,david.torres@hospital.com,University of Maryland Medical Center,Maryland,abcd
+John Hill,Surgery,(703) 555-3725,john.hill@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Christopher Sanchez,Pain Management,(301) 555-6410,christopher.sanchez@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Brian Johnson,Consult - History and Phy.,(240) 555-7402,brian.johnson@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Sharon Jones,Dermatology,(703) 555-2279,sharon.jones@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Rachel Adams,Surgery,(202) 555-0494,rachel.adams@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Timothy Gonzalez,Letters,(301) 555-3723,timothy.gonzalez@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Ruth Brown,Surgery,(240) 555-0587,ruth.brown@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Paul Hill,Cardiovascular / Pulmonary,(301) 555-7935,paul.hill@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Rachel Hill,Orthopedic,(703) 555-0481,rachel.hill@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Sarah Rodriguez,Dermatology,(703) 555-3535,sarah.rodriguez@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Sharon Johnson,Nephrology,(703) 555-5190,sharon.johnson@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Edward Hernandez,Allergy / Immunology,(571) 555-4979,edward.hernandez@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Steven Ramirez,SOAP / Chart / Progress Notes,(240) 555-5643,steven.ramirez@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Mark Walker,Neurology,(571) 555-0213,mark.walker@hospital.com,Virginia Hospital Center,Virginia,abcd
+Jessica Wright,Discharge Summary,(301) 555-4731,jessica.wright@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Ruth Lopez,Office Notes,(571) 555-4539,ruth.lopez@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Michael Wilson,Surgery,(703) 555-0575,michael.wilson@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Cynthia Miller,Radiology,(571) 555-8661,cynthia.miller@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Lisa Torres,Neurosurgery,(301) 555-7677,lisa.torres@hospital.com,Virginia Hospital Center,Virginia,abcd
+Jessica Scott,Surgery,(240) 555-2837,jessica.scott@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Paul Wright,SOAP / Chart / Progress Notes,(571) 555-4493,paul.wright@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Lisa Harris,Sleep Medicine,(703) 555-1291,lisa.harris@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Matthew Young,Office Notes,(240) 555-7766,matthew.young@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Thomas Brown,Neurosurgery,(301) 555-1576,thomas.brown@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Lisa Williams,SOAP / Chart / Progress Notes,(240) 555-2643,lisa.williams@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Sarah Green,Surgery,(571) 555-1362,sarah.green@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Maria Jackson,Surgery,(301) 555-0725,maria.jackson@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Deborah Moore,Surgery,(240) 555-9941,deborah.moore@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Helen Perez,Surgery,(571) 555-8466,helen.perez@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Anthony Thompson,Surgery,(571) 555-1924,anthony.thompson@hospital.com,Howard University Hospital,Washington D.C.,abcd
+David Davis,Neurology,(240) 555-5678,david.davis@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+James Miller,Orthopedic,(301) 555-0074,james.miller@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Deborah Allen,Pain Management,(240) 555-8200,deborah.allen@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Kenneth Scott,General Medicine,(703) 555-7624,kenneth.scott@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Emma Hall,Surgery,(301) 555-9225,emma.hall@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Michael Hall,Radiology,(301) 555-8165,michael.hall@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Christine Roberts,Ophthalmology,(301) 555-9924,christine.roberts@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Christopher Jones,Neurology,(301) 555-1451,christopher.jones@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Ruth Wilson,Surgery,(240) 555-6915,ruth.wilson@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Sharon Garcia,Surgery,(240) 555-0920,sharon.garcia@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Carol Garcia,Surgery,(240) 555-5568,carol.garcia@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Betty Mitchell,Orthopedic,(571) 555-8213,betty.mitchell@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Paul King,Neurology,(703) 555-8705,paul.king@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Carol Sanchez,Gastroenterology,(301) 555-1407,carol.sanchez@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+David Brown,Consult - History and Phy.,(703) 555-0335,david.brown@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Andrew Young,Podiatry,(301) 555-8656,andrew.young@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Kevin Mitchell,Cardiovascular / Pulmonary,(202) 555-9016,kevin.mitchell@hospital.com,Virginia Hospital Center,Virginia,abcd
+Kenneth Jackson,Ophthalmology,(301) 555-9618,kenneth.jackson@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Gregory Anderson,General Medicine,(703) 555-3937,gregory.anderson@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Kevin Evans,Consult - History and Phy.,(301) 555-9879,kevin.evans@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Ruth Hall,Nephrology,(703) 555-4475,ruth.hall@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Jessica Evans,Cardiovascular / Pulmonary,(571) 555-0342,jessica.evans@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+James White,Podiatry,(703) 555-9691,james.white@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Thomas Scott,Surgery,(571) 555-9293,thomas.scott@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Janet Miller,Orthopedic,(240) 555-2981,janet.miller@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Julie Lewis,Orthopedic,(703) 555-2647,julie.lewis@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Timothy Jackson,Surgery,(240) 555-5188,timothy.jackson@hospital.com,Virginia Hospital Center,Virginia,abcd
+Carol Lee,Hematology - Oncology,(703) 555-7324,carol.lee@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Michael White,Radiology,(301) 555-0487,michael.white@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Mary Walker,Cardiovascular / Pulmonary,(301) 555-5798,mary.walker@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Anthony Nelson,Cardiovascular / Pulmonary,(240) 555-5787,anthony.nelson@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Daniel Johnson,Orthopedic,(571) 555-3824,daniel.johnson@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Janet Adams,Gastroenterology,(202) 555-9527,janet.adams@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Mary Thomas,Orthopedic,(240) 555-9529,mary.thomas@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Linda Nelson,Discharge Summary,(571) 555-7951,linda.nelson@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Timothy Lewis,Consult - History and Phy.,(571) 555-0338,timothy.lewis@hospital.com,Virginia Hospital Center,Virginia,abcd
+Sarah Lopez,Gastroenterology,(703) 555-6094,sarah.lopez@hospital.com,Children's National Hospital,Washington D.C.,abcd
+David Torres,General Medicine,(240) 555-5835,david.torres@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Anthony Evans,Orthopedic,(301) 555-9479,anthony.evans@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Sharon Miller,Consult - History and Phy.,(301) 555-7020,sharon.miller@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Nancy Adams,Office Notes,(301) 555-6751,nancy.adams@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Jessica Jackson,Consult - History and Phy.,(240) 555-3615,jessica.jackson@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Rachel Sanchez,ENT - Otolaryngology,(571) 555-8357,rachel.sanchez@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Jessica King,Surgery,(703) 555-3515,jessica.king@hospital.com,University of Maryland Medical Center,Maryland,abcd
+Ruth Green,Consult - History and Phy.,(202) 555-2804,ruth.green@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+Timothy Wilson,Office Notes,(301) 555-5321,timothy.wilson@hospital.com,Howard University Hospital,Washington D.C.,abcd
+Mark Baker,Cardiovascular / Pulmonary,(202) 555-1662,mark.baker@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Kenneth Roberts,General Medicine,(240) 555-0532,kenneth.roberts@hospital.com,Virginia Hospital Center,Virginia,abcd
+Patricia Lewis,Nephrology,(301) 555-6276,patricia.lewis@hospital.com,Virginia Hospital Center,Virginia,abcd
+Sandra Gonzalez,Cardiovascular / Pulmonary,(202) 555-9305,sandra.gonzalez@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Christine Garcia,Cardiovascular / Pulmonary,(202) 555-9904,christine.garcia@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Robert Anderson,Gastroenterology,(240) 555-0898,robert.anderson@hospital.com,Children's National Hospital,Washington D.C.,abcd
+Jessica Turner,Orthopedic,(301) 555-2509,jessica.turner@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Rachel Mitchell,Neurosurgery,(301) 555-8967,rachel.mitchell@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+James White,Surgery,(301) 555-3885,james.white@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Mary Davis,Orthopedic,(703) 555-5089,mary.davis@hospital.com,MedStar Georgetown University Hospital,Washington D.C.,abcd
+Kevin Campbell,Cardiovascular / Pulmonary,(703) 555-7492,kevin.campbell@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+David Adams,Orthopedic,(301) 555-5764,david.adams@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Joshua Moore,Cardiovascular / Pulmonary,(301) 555-4167,joshua.moore@hospital.com,Johns Hopkins Hospital,Maryland,abcd
+Paul Davis,Surgery,(571) 555-8819,paul.davis@hospital.com,Psychiatric Institute of Washington,Washington D.C.,abcd
+George Moore,Gastroenterology,(571) 555-4029,george.moore@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Thomas Hernandez,Cardiovascular / Pulmonary,(301) 555-6766,thomas.hernandez@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Cynthia Anderson,Dentistry,(703) 555-1092,cynthia.anderson@hospital.com,MedStar Washington Hospital Center,Washington D.C.,abcd
+Daniel Adams,Orthopedic,(240) 555-5973,daniel.adams@hospital.com,George Washington University Hospital,Washington D.C.,abcd
+Mary Perez,Surgery,(301) 555-0748,mary.perez@hospital.com,Inova Fairfax Hospital,Virginia,abcd
+Maria Lewis,Surgery,(240) 555-9490,maria.lewis@hospital.com,National Rehabilitation Hospital,Washington D.C.,abcd
+Carol Green,Consult - History and Phy.,(240) 555-6443,carol.green@hospital.com,Virginia Hospital Center,Virginia,abcd
