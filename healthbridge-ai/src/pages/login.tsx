@@ -53,7 +53,7 @@ const Login: React.FC = () => {
         <div className="bg-white p-8 rounded shadow-md w-96">
           <h1 className="text-2xl font-semibold text-center mb-2">
             {" "}
-            Login to AnyHealth
+            Login to HealthBridge AI
           </h1>
           <hr></hr>
           <form className="mt-4" onSubmit={handleLogin}>

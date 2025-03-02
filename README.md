@@ -67,6 +67,7 @@ DYNAMO_DB_TABLE_NAME=
 
 ## Screenshots
 
+![Screenshot 0](screenshots/architecture.png)
 ![Screenshot 1](screenshots/main0.png)
 ![Screenshot 2](screenshots/main1.png)
 

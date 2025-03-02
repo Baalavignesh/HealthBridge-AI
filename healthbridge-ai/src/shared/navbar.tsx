@@ -11,7 +11,7 @@ const NavBar: React.FC  = () => {
   return (
     <div className="p-4 pl-24 pr-24 flex justify-between items-center bg-custom-black text-white">
       <h2 onClick={() => navigate("/")} className="cursor-pointer">
-        AnyHealth
+        HealthBridge AI
       </h2>
       <div className="flex gap-12">
         <h4 onClick={handleLogout} className="cursor-pointer">
